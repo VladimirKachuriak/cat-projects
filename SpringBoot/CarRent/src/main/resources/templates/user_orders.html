@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title th:text="#{title.userOrder}">Title</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
+          integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons"
+          rel="stylesheet">
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
+            integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
+            crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.14.3/dist/umd/popper.min.js"
+            integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49"
+            crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.1.3/dist/js/bootstrap.min.js"
+            integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy"
+            crossorigin="anonymous"></script>
+</head>
+<body>
+<div th:replace="fragments/navBar::navBar"></div>
+<div class="container">
+    <div th:if="${message!=null}">
+        <div class="alert alert-info">
+            <span th:text="#{${message}}"/>
+        </div>
+    </div>
+    <h2 th:text="#{label.user.account}+':'+${user.account}+'$'"></h2>
+    <form th:action="@{/user/topUp}" th:method="POST" id="topUp" role="form">
+        <input type="hidden" name="action" value="topUpMoney">
+        <label for="money" class="control-label col-xs-4" th:text="#{label.order.topUp}"></label>
+        <input type="number" min="0" name="money" id="money" class="form-control" oninput="validity.valid||(value='')" required="true"/>
+        <button type="submit" class="btn btn-primary  btn-md" th:text="#{button.accept}"></button>
+    </form>
+    <div th:unless="${user.orders.empty}">
+        <table class="table table-striped">
+            <thead>
+            <tr>
+                <td>#</td>
+                <td th:text="#{label.order.carId}">idCar</td>
+                <td th:text="#{label.order.startDate}">start Date</td>
+                <td th:text="#{label.order.endDate}">end Date</td>
+                <td th:text="#{label.order.state}">State</td>
+                <td th:text="#{label.order.account}"> account</td>
+                <td th:text="#{label.order.accountDamage}">damage</td>
+                <td th:text="#{label.order.message}">message</td>
+            </tr>
+            </thead>
+            <div th:each="order:${user.orders}">
+                <tr>
+                    <td th:text="${order.id}"/>
+                    <td th:text=" ${order.car.id}"/>
+                    <td th:text="${order.start_date}"/>
+                    <td th:text="${order.end_date}"/>
+                    <td th:text="${order.state}"/>
+                    <td th:text="${order.account}"/>
+                    <td th:text="${order.accountDamage}"/>
+                    <td th:text="${order.message}"/>
+                    <td>
+                        <form th:action="@{/user/order/{id}/pay(id=${order.id})}" th:method="POST">
+                            <button type="submit">
+                                <span class="material-icons md-24">done</span>
+                            </button>
+                        </form>
+                    </td>
+                </tr>
+            </div>
+        </table>
+    </div>
+    <div th:if="${user.orders.empty}">
+        <div class="alert alert-info" th:text="#{label.order.noOrderYet}">
+        </div>
+    </div>
+</div>
+</body>
+</html>

@@ -1,0 +1,111 @@
+<div th:fragment="navBar" xmlns:sec="http://www.w3.org/1999/xhtml">
+    <div sec:authorize="hasAuthority('ADMIN')">
+        <nav class="navbar navbar-expand-lg navbar-light bg-light">
+            <a class="navbar-brand" href="#" th:text="#{label.navigation}">Navbar</a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
+                    aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav mr-auto">
+                    <li class="nav-item">
+                        <a class="nav-link" th:href="@{/admin/order}" th:text = "#{title.adminOrder}">Orders</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" th:href="@{/admin/users}" th:text = "#{title.users}">Users</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" th:href="@{/admin/car}" th:text="#{title.cars}">Cars</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" th:href="@{/catalog}" th:text="#{title.catalog}">Catalog</a>
+                    </li>
+
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button"
+                           data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" th:text = "#{label.changeLanguage}">
+                            Change language
+                        </a>
+                        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                            <a class="dropdown-item" th:href="@{'?lang=en'}" th:text = "#{label.language.eu}">EN</a>
+                            <a class="dropdown-item" th:href="@{'?lang=uk'}" th:text = "#{label.language.uk}">UA</a>
+                        </div>
+                    </li>
+                </ul>
+                <h2 th:text="#{label.user.login}+':'+${#authentication.getPrincipal().getLogin()}"></h2>
+                <form class="form-inline my-2 my-lg-0" th:action="@{/logout}"  th:method="POST">
+                    <button class="btn btn-outline-success my-2 my-sm-0" th:text="#{label.logout}" type="submit">Logout</button>
+                </form>
+            </div>
+        </nav>
+    </div>
+    <div sec:authorize="hasAuthority('USER')">
+        <nav class="navbar navbar-expand-lg navbar-light bg-light">
+            <a class="navbar-brand" href="#" th:text="#{label.navigation}">Navbar</a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
+                    aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav mr-auto">
+                    <li class="nav-item">
+                        <a class="nav-link" th:href="@{/user/order}"  th:text = "#{title.userOrder}">Orders</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" th:href="@{/catalog}" th:text="#{title.catalog}">Catalog</a>
+                    </li>
+
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button"
+                           data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" th:text = "#{label.changeLanguage}">
+                            Change language
+                        </a>
+                        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                            <a class="dropdown-item" th:href="@{'?lang=en'}"th:text = "#{label.language.eu}">EN</a>
+                            <a class="dropdown-item" th:href="@{'?lang=uk'}"th:text = "#{label.language.uk}">UA</a>
+                        </div>
+                    </li>
+                </ul>
+
+                    <h2 th:text="#{label.user.login}+':'+${#authentication.getPrincipal().getLogin()}"></h2>
+                <form class="form-inline my-2 my-lg-0" th:action="@{/logout}" th:method="POST">
+                    <button class="btn btn-outline-success my-2 my-sm-0" type="submit" th:text="#{label.logout}">Logout</button>
+                </form>
+            </div>
+        </nav>
+    </div>
+    <div sec:authorize="isAnonymous()">
+        <nav class="navbar navbar-expand-lg navbar-light bg-light">
+            <a class="navbar-brand" href="#" th:text="#{label.navigation}">Navbar</a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
+                    aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav mr-auto">
+                    <li class="nav-item active">
+                        <a class="nav-link" th:href="@{/registration}" th:text = "#{title.registration}">Registration <span class="sr-only">(current)</span></a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" th:href="@{/catalog}" th:text="#{title.catalog}">Catalog</a>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button"
+                           data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" th:text = "#{label.changeLanguage}">
+                            Change language
+                        </a>
+                        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                            <a class="dropdown-item" th:href="@{'?lang=en'}" th:text = "#{label.language.eu}">EN</a>
+                            <a class="dropdown-item" th:href="@{'?lang=uk'}" th:text = "#{label.language.uk}">UA</a>
+                        </div>
+                    </li>
+                </ul>
+                <form class="form-inline my-2 my-lg-0" th:action="@{/login}" th:method="GET">
+                    <button class="btn btn-outline-success my-2 my-sm-0" type="submit" th:text = "#{label.login}">Login</button>
+                </form>
+            </div>
+        </nav>
+    </div>
+</div>

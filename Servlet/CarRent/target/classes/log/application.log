@@ -1,0 +1,996 @@
+2022-05-27 15:42:11 INFO  [main]: - init EncodingFilter
+2022-05-29 18:29:14 DEBUG [main]: - get instance of connection pool
+2022-05-29 18:29:14 DEBUG [main]: - create connection
+2022-05-29 18:29:15 DEBUG [main]: - create connection
+2022-05-29 18:29:15 DEBUG [main]: - create connection
+2022-05-29 18:29:15 DEBUG [main]: - create connection
+2022-05-29 18:29:15 DEBUG [main]: - create connection
+2022-05-29 18:29:15 DEBUG [main]: - create connection
+2022-05-29 18:29:15 DEBUG [main]: - create connection
+2022-05-29 18:29:15 DEBUG [main]: - create connection
+2022-05-29 18:29:15 DEBUG [main]: - create connection
+2022-05-29 18:29:15 DEBUG [main]: - create connection
+2022-05-29 18:29:15 DEBUG [main]: - init EncodingFilter
+2022-05-29 18:29:15 DEBUG [main]: - init permission filter
+2022-05-29 18:37:42 DEBUG [main]: - Start context listener
+2022-05-29 18:37:42 DEBUG [main]: - get instance of connection pool
+2022-05-29 18:37:42 DEBUG [main]: - create connection
+2022-05-29 18:37:43 DEBUG [main]: - create connection
+2022-05-29 18:37:43 DEBUG [main]: - create connection
+2022-05-29 18:37:43 DEBUG [main]: - create connection
+2022-05-29 18:37:43 DEBUG [main]: - create connection
+2022-05-29 18:37:43 DEBUG [main]: - create connection
+2022-05-29 18:37:43 DEBUG [main]: - create connection
+2022-05-29 18:37:43 DEBUG [main]: - create connection
+2022-05-29 18:37:43 DEBUG [main]: - create connection
+2022-05-29 18:37:43 DEBUG [main]: - create connection
+2022-05-29 18:37:43 DEBUG [main]: - init EncodingFilter
+2022-05-29 18:37:43 DEBUG [main]: - init permission filter
+2022-05-29 18:37:46 DEBUG [http-nio-8080-exec-2]: - do EncodingFilter: UTF8
+2022-05-29 18:37:46 DEBUG [http-nio-8080-exec-2]: - user role: GUEST
+2022-05-29 18:37:46 DEBUG [http-nio-8080-exec-2]: - get instance of connection pool
+2022-05-29 18:37:46 DEBUG [http-nio-8080-exec-2]: - get connection
+2022-05-29 18:37:47 DEBUG [http-nio-8080-exec-2]: - get instance of connection pool
+2022-05-29 18:37:47 DEBUG [http-nio-8080-exec-2]: - release connection
+2022-05-29 18:37:47 DEBUG [http-nio-8080-exec-2]: - get instance of connection pool
+2022-05-29 18:37:47 DEBUG [http-nio-8080-exec-2]: - get connection
+2022-05-29 18:37:47 DEBUG [http-nio-8080-exec-2]: - get instance of connection pool
+2022-05-29 18:37:47 DEBUG [http-nio-8080-exec-2]: - release connection
+2022-05-29 18:37:50 DEBUG [http-nio-8080-exec-3]: - do EncodingFilter: UTF8
+2022-05-29 18:37:50 DEBUG [http-nio-8080-exec-3]: - user role: GUEST
+2022-05-29 18:37:50 DEBUG [http-nio-8080-exec-3]: - return login page
+2022-05-29 18:37:57 DEBUG [http-nio-8080-exec-4]: - do EncodingFilter: UTF8
+2022-05-29 18:37:57 DEBUG [http-nio-8080-exec-4]: - user role: GUEST
+2022-05-29 18:37:57 DEBUG [http-nio-8080-exec-4]: - get instance of connection pool
+2022-05-29 18:37:57 DEBUG [http-nio-8080-exec-4]: - get connection
+2022-05-29 18:37:57 DEBUG [http-nio-8080-exec-4]: - get instance of connection pool
+2022-05-29 18:37:57 DEBUG [http-nio-8080-exec-4]: - release connection
+2022-05-29 18:37:57 DEBUG [http-nio-8080-exec-4]: - user login in system
+2022-05-29 18:37:57 DEBUG [http-nio-8080-exec-5]: - do EncodingFilter: UTF8
+2022-05-29 18:37:57 DEBUG [http-nio-8080-exec-5]: - user role: USER
+2022-05-29 18:37:57 DEBUG [http-nio-8080-exec-5]: - get instance of connection pool
+2022-05-29 18:37:57 DEBUG [http-nio-8080-exec-5]: - get connection
+2022-05-29 18:37:57 DEBUG [http-nio-8080-exec-5]: - get instance of connection pool
+2022-05-29 18:37:57 DEBUG [http-nio-8080-exec-5]: - release connection
+2022-05-29 18:37:57 DEBUG [http-nio-8080-exec-5]: - get instance of connection pool
+2022-05-29 18:37:57 DEBUG [http-nio-8080-exec-5]: - get connection
+2022-05-29 18:37:57 DEBUG [http-nio-8080-exec-5]: - get instance of connection pool
+2022-05-29 18:37:57 DEBUG [http-nio-8080-exec-5]: - release connection
+2022-05-29 18:37:57 DEBUG [http-nio-8080-exec-5]: - get instance of connection pool
+2022-05-29 18:37:57 DEBUG [http-nio-8080-exec-5]: - get connection
+2022-05-29 18:37:57 DEBUG [http-nio-8080-exec-5]: - get instance of connection pool
+2022-05-29 18:37:57 DEBUG [http-nio-8080-exec-5]: - release connection
+2022-05-29 18:38:00 DEBUG [http-nio-8080-exec-6]: - do EncodingFilter: UTF8
+2022-05-29 18:38:00 DEBUG [http-nio-8080-exec-6]: - user role: USER
+2022-05-29 18:38:00 DEBUG [http-nio-8080-exec-6]: - get instance of connection pool
+2022-05-29 18:38:00 DEBUG [http-nio-8080-exec-6]: - get connection
+2022-05-29 18:38:00 DEBUG [http-nio-8080-exec-6]: - get instance of connection pool
+2022-05-29 18:38:00 DEBUG [http-nio-8080-exec-6]: - release connection
+2022-05-29 18:38:00 DEBUG [http-nio-8080-exec-6]: - get instance of connection pool
+2022-05-29 18:38:00 DEBUG [http-nio-8080-exec-6]: - get connection
+2022-05-29 18:38:00 DEBUG [http-nio-8080-exec-6]: - get instance of connection pool
+2022-05-29 18:38:00 DEBUG [http-nio-8080-exec-6]: - release connection
+2022-05-29 18:38:00 DEBUG [http-nio-8080-exec-6]: - get order by user id
+2022-05-29 18:38:00 DEBUG [http-nio-8080-exec-6]: - get instance of connection pool
+2022-05-29 18:38:00 DEBUG [http-nio-8080-exec-6]: - get connection
+2022-05-29 18:38:00 DEBUG [http-nio-8080-exec-6]: - get instance of connection pool
+2022-05-29 18:38:00 DEBUG [http-nio-8080-exec-6]: - release connection
+2022-05-29 18:38:34 DEBUG [http-nio-8080-exec-9]: - do EncodingFilter: UTF8
+2022-05-29 18:38:34 DEBUG [http-nio-8080-exec-9]: - user role: USER
+2022-05-29 18:38:34 DEBUG [http-nio-8080-exec-9]: - get instance of connection pool
+2022-05-29 18:38:34 DEBUG [http-nio-8080-exec-9]: - get connection
+2022-05-29 18:38:34 DEBUG [http-nio-8080-exec-9]: - get instance of connection pool
+2022-05-29 18:38:34 DEBUG [http-nio-8080-exec-9]: - release connection
+2022-05-29 18:38:34 DEBUG [http-nio-8080-exec-9]: - get instance of connection pool
+2022-05-29 18:38:34 DEBUG [http-nio-8080-exec-9]: - get connection
+2022-05-29 18:38:34 DEBUG [http-nio-8080-exec-9]: - get instance of connection pool
+2022-05-29 18:38:34 DEBUG [http-nio-8080-exec-9]: - release connection
+2022-05-29 18:38:34 DEBUG [http-nio-8080-exec-9]: - get order by user id
+2022-05-29 18:38:34 DEBUG [http-nio-8080-exec-9]: - get instance of connection pool
+2022-05-29 18:38:34 DEBUG [http-nio-8080-exec-9]: - get connection
+2022-05-29 18:38:34 DEBUG [http-nio-8080-exec-9]: - get instance of connection pool
+2022-05-29 18:38:34 DEBUG [http-nio-8080-exec-9]: - release connection
+2022-05-29 18:38:34 DEBUG [http-nio-8080-exec-9]: - get instance of connection pool
+2022-05-29 18:38:34 DEBUG [http-nio-8080-exec-9]: - get connection
+2022-05-29 18:38:34 DEBUG [http-nio-8080-exec-9]: - get instance of connection pool
+2022-05-29 18:38:34 DEBUG [http-nio-8080-exec-9]: - release connection
+2022-05-29 18:38:34 DEBUG [http-nio-8080-exec-9]: - get instance of connection pool
+2022-05-29 18:38:34 DEBUG [http-nio-8080-exec-9]: - get connection
+2022-05-29 18:38:34 DEBUG [http-nio-8080-exec-9]: - get instance of connection pool
+2022-05-29 18:38:34 DEBUG [http-nio-8080-exec-9]: - release connection
+2022-05-29 18:38:34 DEBUG [http-nio-8080-exec-9]: - get new order
+2022-05-29 18:38:34 DEBUG [http-nio-8080-exec-9]: - get instance of connection pool
+2022-05-29 18:38:34 DEBUG [http-nio-8080-exec-9]: - get connection
+2022-05-29 18:38:34 DEBUG [http-nio-8080-exec-9]: - get instance of connection pool
+2022-05-29 18:38:34 DEBUG [http-nio-8080-exec-9]: - release connection
+2022-05-29 18:38:34 DEBUG [http-nio-8080-exec-10]: - do EncodingFilter: UTF8
+2022-05-29 18:38:34 DEBUG [http-nio-8080-exec-10]: - user role: USER
+2022-05-29 18:38:34 DEBUG [http-nio-8080-exec-10]: - get instance of connection pool
+2022-05-29 18:38:34 DEBUG [http-nio-8080-exec-10]: - get connection
+2022-05-29 18:38:34 DEBUG [http-nio-8080-exec-10]: - get instance of connection pool
+2022-05-29 18:38:34 DEBUG [http-nio-8080-exec-10]: - release connection
+2022-05-29 18:38:34 DEBUG [http-nio-8080-exec-10]: - get instance of connection pool
+2022-05-29 18:38:34 DEBUG [http-nio-8080-exec-10]: - get connection
+2022-05-29 18:38:34 DEBUG [http-nio-8080-exec-10]: - get instance of connection pool
+2022-05-29 18:38:34 DEBUG [http-nio-8080-exec-10]: - release connection
+2022-05-29 18:38:34 DEBUG [http-nio-8080-exec-10]: - get all orders
+2022-05-29 18:38:34 DEBUG [http-nio-8080-exec-10]: - get instance of connection pool
+2022-05-29 18:38:34 DEBUG [http-nio-8080-exec-10]: - get connection
+2022-05-29 18:38:34 DEBUG [http-nio-8080-exec-10]: - get instance of connection pool
+2022-05-29 18:38:34 DEBUG [http-nio-8080-exec-10]: - release connection
+2022-05-29 18:39:03 DEBUG [http-nio-8080-exec-3]: - do EncodingFilter: UTF8
+2022-05-29 18:39:03 DEBUG [http-nio-8080-exec-3]: - user role: GUEST
+2022-05-29 18:39:03 DEBUG [http-nio-8080-exec-3]: - get instance of connection pool
+2022-05-29 18:39:03 DEBUG [http-nio-8080-exec-3]: - get connection
+2022-05-29 18:39:03 DEBUG [http-nio-8080-exec-3]: - get instance of connection pool
+2022-05-29 18:39:03 DEBUG [http-nio-8080-exec-3]: - release connection
+2022-05-29 18:39:03 DEBUG [http-nio-8080-exec-3]: - get instance of connection pool
+2022-05-29 18:39:03 DEBUG [http-nio-8080-exec-3]: - get connection
+2022-05-29 18:39:03 DEBUG [http-nio-8080-exec-3]: - get instance of connection pool
+2022-05-29 18:39:03 DEBUG [http-nio-8080-exec-3]: - release connection
+2022-05-29 18:39:03 DEBUG [http-nio-8080-exec-4]: - do EncodingFilter: UTF8
+2022-05-29 18:39:03 DEBUG [http-nio-8080-exec-4]: - user role: GUEST
+2022-05-29 18:39:09 DEBUG [http-nio-8080-exec-5]: - do EncodingFilter: UTF8
+2022-05-29 18:39:09 DEBUG [http-nio-8080-exec-5]: - user role: GUEST
+2022-05-29 18:39:09 DEBUG [http-nio-8080-exec-5]: - return login page
+2022-05-29 18:39:09 DEBUG [http-nio-8080-exec-6]: - do EncodingFilter: UTF8
+2022-05-29 18:39:09 DEBUG [http-nio-8080-exec-6]: - user role: GUEST
+2022-05-29 18:39:18 DEBUG [http-nio-8080-exec-7]: - do EncodingFilter: UTF8
+2022-05-29 18:39:18 DEBUG [http-nio-8080-exec-7]: - user role: GUEST
+2022-05-29 18:39:18 DEBUG [http-nio-8080-exec-7]: - get instance of connection pool
+2022-05-29 18:39:18 DEBUG [http-nio-8080-exec-7]: - get connection
+2022-05-29 18:39:18 DEBUG [http-nio-8080-exec-7]: - get instance of connection pool
+2022-05-29 18:39:18 DEBUG [http-nio-8080-exec-7]: - release connection
+2022-05-29 18:39:18 DEBUG [http-nio-8080-exec-7]: - user login in system
+2022-05-29 18:39:18 DEBUG [http-nio-8080-exec-8]: - do EncodingFilter: UTF8
+2022-05-29 18:39:18 DEBUG [http-nio-8080-exec-8]: - user role: ADMIN
+2022-05-29 18:39:18 DEBUG [http-nio-8080-exec-8]: - get instance of connection pool
+2022-05-29 18:39:18 DEBUG [http-nio-8080-exec-8]: - get connection
+2022-05-29 18:39:18 DEBUG [http-nio-8080-exec-8]: - get instance of connection pool
+2022-05-29 18:39:18 DEBUG [http-nio-8080-exec-8]: - release connection
+2022-05-29 18:39:18 DEBUG [http-nio-8080-exec-8]: - get instance of connection pool
+2022-05-29 18:39:18 DEBUG [http-nio-8080-exec-8]: - get connection
+2022-05-29 18:39:18 DEBUG [http-nio-8080-exec-8]: - get instance of connection pool
+2022-05-29 18:39:18 DEBUG [http-nio-8080-exec-8]: - release connection
+2022-05-29 18:39:18 DEBUG [http-nio-8080-exec-9]: - do EncodingFilter: UTF8
+2022-05-29 18:39:18 DEBUG [http-nio-8080-exec-9]: - user role: ADMIN
+2022-05-29 18:39:21 DEBUG [http-nio-8080-exec-10]: - do EncodingFilter: UTF8
+2022-05-29 18:39:21 DEBUG [http-nio-8080-exec-10]: - user role: ADMIN
+2022-05-29 18:39:21 DEBUG [http-nio-8080-exec-10]: - get all orders
+2022-05-29 18:39:21 DEBUG [http-nio-8080-exec-10]: - get instance of connection pool
+2022-05-29 18:39:21 DEBUG [http-nio-8080-exec-10]: - get connection
+2022-05-29 18:39:21 DEBUG [http-nio-8080-exec-10]: - get instance of connection pool
+2022-05-29 18:39:21 DEBUG [http-nio-8080-exec-10]: - release connection
+2022-05-29 18:39:21 DEBUG [http-nio-8080-exec-10]: - return admin_orders.jsp
+2022-05-29 18:39:21 DEBUG [http-nio-8080-exec-1]: - do EncodingFilter: UTF8
+2022-05-29 18:39:21 DEBUG [http-nio-8080-exec-1]: - user role: ADMIN
+2022-05-29 18:39:24 DEBUG [http-nio-8080-exec-2]: - do EncodingFilter: UTF8
+2022-05-29 18:39:24 DEBUG [http-nio-8080-exec-2]: - user role: ADMIN
+2022-05-29 18:39:24 INFO  [http-nio-8080-exec-2]: - accept order
+2022-05-29 18:39:24 DEBUG [http-nio-8080-exec-2]: - get order by  id
+2022-05-29 18:39:24 DEBUG [http-nio-8080-exec-2]: - get instance of connection pool
+2022-05-29 18:39:24 DEBUG [http-nio-8080-exec-2]: - get connection
+2022-05-29 18:39:24 DEBUG [http-nio-8080-exec-2]: - get instance of connection pool
+2022-05-29 18:39:24 DEBUG [http-nio-8080-exec-2]: - release connection
+2022-05-29 18:39:24 DEBUG [http-nio-8080-exec-2]: - get instance of connection pool
+2022-05-29 18:39:24 DEBUG [http-nio-8080-exec-2]: - get connection
+2022-05-29 18:39:24 DEBUG [http-nio-8080-exec-2]: - update Order
+2022-05-29 18:39:24 DEBUG [http-nio-8080-exec-2]: - get instance of connection pool
+2022-05-29 18:39:24 DEBUG [http-nio-8080-exec-2]: - release connection
+2022-05-29 18:39:24 DEBUG [http-nio-8080-exec-2]: - get instance of connection pool
+2022-05-29 18:39:24 DEBUG [http-nio-8080-exec-2]: - get connection
+2022-05-29 18:39:24 DEBUG [http-nio-8080-exec-2]: - get instance of connection pool
+2022-05-29 18:39:24 DEBUG [http-nio-8080-exec-2]: - release connection
+2022-05-29 18:39:24 DEBUG [http-nio-8080-exec-2]: - get instance of connection pool
+2022-05-29 18:39:24 DEBUG [http-nio-8080-exec-2]: - get connection
+2022-05-29 18:39:24 DEBUG [http-nio-8080-exec-2]: - get instance of connection pool
+2022-05-29 18:39:24 DEBUG [http-nio-8080-exec-2]: - release connection
+2022-05-29 18:39:24 DEBUG [http-nio-8080-exec-3]: - do EncodingFilter: UTF8
+2022-05-29 18:39:24 DEBUG [http-nio-8080-exec-3]: - user role: ADMIN
+2022-05-29 18:39:24 DEBUG [http-nio-8080-exec-3]: - get all orders
+2022-05-29 18:39:24 DEBUG [http-nio-8080-exec-3]: - get instance of connection pool
+2022-05-29 18:39:24 DEBUG [http-nio-8080-exec-3]: - get connection
+2022-05-29 18:39:24 DEBUG [http-nio-8080-exec-3]: - get instance of connection pool
+2022-05-29 18:39:24 DEBUG [http-nio-8080-exec-3]: - release connection
+2022-05-29 18:39:24 DEBUG [http-nio-8080-exec-3]: - return admin_orders.jsp
+2022-05-29 18:39:24 DEBUG [http-nio-8080-exec-4]: - do EncodingFilter: UTF8
+2022-05-29 18:39:24 DEBUG [http-nio-8080-exec-4]: - user role: ADMIN
+2022-05-29 18:39:35 DEBUG [http-nio-8080-exec-5]: - do EncodingFilter: UTF8
+2022-05-29 18:39:35 DEBUG [http-nio-8080-exec-5]: - user role: ADMIN
+2022-05-29 18:39:35 INFO  [http-nio-8080-exec-5]: - action: null
+2022-05-29 18:39:35 DEBUG [http-nio-8080-exec-5]: - get instance of connection pool
+2022-05-29 18:39:35 DEBUG [http-nio-8080-exec-5]: - get connection
+2022-05-29 18:39:35 DEBUG [http-nio-8080-exec-5]: - get instance of connection pool
+2022-05-29 18:39:35 DEBUG [http-nio-8080-exec-5]: - release connection
+2022-05-29 18:39:35 DEBUG [http-nio-8080-exec-6]: - do EncodingFilter: UTF8
+2022-05-29 18:39:35 DEBUG [http-nio-8080-exec-6]: - user role: ADMIN
+2022-05-29 18:39:40 DEBUG [http-nio-8080-exec-7]: - do EncodingFilter: UTF8
+2022-05-29 18:39:40 DEBUG [http-nio-8080-exec-7]: - user role: ADMIN
+2022-05-29 18:39:40 INFO  [http-nio-8080-exec-7]: - method post action: remove
+2022-05-29 18:39:40 INFO  [http-nio-8080-exec-7]: - remove car
+2022-05-29 18:39:40 DEBUG [http-nio-8080-exec-7]: - get instance of connection pool
+2022-05-29 18:39:40 DEBUG [http-nio-8080-exec-7]: - get connection
+2022-05-29 18:39:40 DEBUG [http-nio-8080-exec-7]: - get instance of connection pool
+2022-05-29 18:39:40 DEBUG [http-nio-8080-exec-7]: - release connection
+2022-05-29 18:39:40 DEBUG [http-nio-8080-exec-8]: - do EncodingFilter: UTF8
+2022-05-29 18:39:40 DEBUG [http-nio-8080-exec-8]: - user role: ADMIN
+2022-05-29 18:39:40 INFO  [http-nio-8080-exec-8]: - action: null
+2022-05-29 18:39:40 DEBUG [http-nio-8080-exec-8]: - get instance of connection pool
+2022-05-29 18:39:40 DEBUG [http-nio-8080-exec-8]: - get connection
+2022-05-29 18:39:40 DEBUG [http-nio-8080-exec-8]: - get instance of connection pool
+2022-05-29 18:39:40 DEBUG [http-nio-8080-exec-8]: - release connection
+2022-05-29 18:39:40 DEBUG [http-nio-8080-exec-9]: - do EncodingFilter: UTF8
+2022-05-29 18:39:40 DEBUG [http-nio-8080-exec-9]: - user role: ADMIN
+2022-05-29 18:39:47 DEBUG [http-nio-8080-exec-10]: - do EncodingFilter: UTF8
+2022-05-29 18:39:47 DEBUG [http-nio-8080-exec-10]: - user role: ADMIN
+2022-05-29 18:39:47 INFO  [http-nio-8080-exec-10]: - method post action: remove
+2022-05-29 18:39:47 INFO  [http-nio-8080-exec-10]: - remove car
+2022-05-29 18:39:47 DEBUG [http-nio-8080-exec-10]: - get instance of connection pool
+2022-05-29 18:39:47 DEBUG [http-nio-8080-exec-10]: - get connection
+2022-05-29 18:39:47 DEBUG [http-nio-8080-exec-10]: - get instance of connection pool
+2022-05-29 18:39:47 DEBUG [http-nio-8080-exec-10]: - release connection
+2022-05-29 18:39:47 DEBUG [http-nio-8080-exec-10]: - get instance of connection pool
+2022-05-29 18:39:47 DEBUG [http-nio-8080-exec-10]: - get connection
+2022-05-29 18:39:47 DEBUG [http-nio-8080-exec-10]: - get instance of connection pool
+2022-05-29 18:39:47 DEBUG [http-nio-8080-exec-10]: - release connection
+2022-05-29 18:39:47 DEBUG [http-nio-8080-exec-10]: - delete Order by car id
+2022-05-29 18:39:47 DEBUG [http-nio-8080-exec-10]: - get instance of connection pool
+2022-05-29 18:39:47 DEBUG [http-nio-8080-exec-10]: - get connection
+2022-05-29 18:39:47 DEBUG [http-nio-8080-exec-10]: - get instance of connection pool
+2022-05-29 18:39:47 DEBUG [http-nio-8080-exec-10]: - release connection
+2022-05-29 18:39:47 DEBUG [http-nio-8080-exec-1]: - do EncodingFilter: UTF8
+2022-05-29 18:39:47 DEBUG [http-nio-8080-exec-1]: - user role: ADMIN
+2022-05-29 18:39:47 INFO  [http-nio-8080-exec-1]: - action: null
+2022-05-29 18:39:47 DEBUG [http-nio-8080-exec-1]: - get instance of connection pool
+2022-05-29 18:39:47 DEBUG [http-nio-8080-exec-1]: - get connection
+2022-05-29 18:39:47 DEBUG [http-nio-8080-exec-1]: - get instance of connection pool
+2022-05-29 18:39:47 DEBUG [http-nio-8080-exec-1]: - release connection
+2022-05-29 18:39:47 DEBUG [http-nio-8080-exec-2]: - do EncodingFilter: UTF8
+2022-05-29 18:39:47 DEBUG [http-nio-8080-exec-2]: - user role: ADMIN
+2022-05-29 18:40:11 DEBUG [http-nio-8080-exec-4]: - do EncodingFilter: UTF8
+2022-05-29 18:40:11 DEBUG [http-nio-8080-exec-4]: - user role: USER
+2022-05-29 18:40:11 DEBUG [http-nio-8080-exec-4]: - get instance of connection pool
+2022-05-29 18:40:11 DEBUG [http-nio-8080-exec-4]: - get connection
+2022-05-29 18:40:11 DEBUG [http-nio-8080-exec-4]: - get instance of connection pool
+2022-05-29 18:40:11 DEBUG [http-nio-8080-exec-4]: - release connection
+2022-05-29 18:40:11 DEBUG [http-nio-8080-exec-4]: - get instance of connection pool
+2022-05-29 18:40:11 DEBUG [http-nio-8080-exec-4]: - get connection
+2022-05-29 18:40:11 DEBUG [http-nio-8080-exec-4]: - get instance of connection pool
+2022-05-29 18:40:11 DEBUG [http-nio-8080-exec-4]: - release connection
+2022-05-29 18:40:11 DEBUG [http-nio-8080-exec-4]: - get all orders
+2022-05-29 18:40:11 DEBUG [http-nio-8080-exec-4]: - get instance of connection pool
+2022-05-29 18:40:11 DEBUG [http-nio-8080-exec-4]: - get connection
+2022-05-29 18:40:11 DEBUG [http-nio-8080-exec-4]: - get instance of connection pool
+2022-05-29 18:40:11 DEBUG [http-nio-8080-exec-4]: - release connection
+2022-05-29 18:40:35 DEBUG [http-nio-8080-exec-7]: - do EncodingFilter: UTF8
+2022-05-29 18:40:35 DEBUG [http-nio-8080-exec-7]: - user role: USER
+2022-05-29 18:40:35 DEBUG [http-nio-8080-exec-7]: - get instance of connection pool
+2022-05-29 18:40:35 DEBUG [http-nio-8080-exec-7]: - get connection
+2022-05-29 18:40:35 DEBUG [http-nio-8080-exec-7]: - get instance of connection pool
+2022-05-29 18:40:35 DEBUG [http-nio-8080-exec-7]: - release connection
+2022-05-29 18:40:35 DEBUG [http-nio-8080-exec-7]: - get instance of connection pool
+2022-05-29 18:40:35 DEBUG [http-nio-8080-exec-7]: - get connection
+2022-05-29 18:40:35 DEBUG [http-nio-8080-exec-7]: - get instance of connection pool
+2022-05-29 18:40:35 DEBUG [http-nio-8080-exec-7]: - release connection
+2022-05-29 18:40:35 DEBUG [http-nio-8080-exec-7]: - get instance of connection pool
+2022-05-29 18:40:35 DEBUG [http-nio-8080-exec-7]: - get connection
+2022-05-29 18:40:35 DEBUG [http-nio-8080-exec-7]: - get instance of connection pool
+2022-05-29 18:40:35 DEBUG [http-nio-8080-exec-7]: - release connection
+2022-05-29 18:40:35 INFO  [http-nio-8080-exec-7]: - top up account
+2022-05-29 18:40:35 DEBUG [http-nio-8080-exec-8]: - do EncodingFilter: UTF8
+2022-05-29 18:40:35 DEBUG [http-nio-8080-exec-8]: - user role: USER
+2022-05-29 18:40:35 DEBUG [http-nio-8080-exec-8]: - get instance of connection pool
+2022-05-29 18:40:35 DEBUG [http-nio-8080-exec-8]: - get connection
+2022-05-29 18:40:35 DEBUG [http-nio-8080-exec-8]: - get instance of connection pool
+2022-05-29 18:40:35 DEBUG [http-nio-8080-exec-8]: - release connection
+2022-05-29 18:40:35 DEBUG [http-nio-8080-exec-8]: - get instance of connection pool
+2022-05-29 18:40:35 DEBUG [http-nio-8080-exec-8]: - get connection
+2022-05-29 18:40:35 DEBUG [http-nio-8080-exec-8]: - get instance of connection pool
+2022-05-29 18:40:35 DEBUG [http-nio-8080-exec-8]: - release connection
+2022-05-29 18:40:35 DEBUG [http-nio-8080-exec-8]: - get all orders
+2022-05-29 18:40:35 DEBUG [http-nio-8080-exec-8]: - get instance of connection pool
+2022-05-29 18:40:35 DEBUG [http-nio-8080-exec-8]: - get connection
+2022-05-29 18:40:35 DEBUG [http-nio-8080-exec-8]: - get instance of connection pool
+2022-05-29 18:40:35 DEBUG [http-nio-8080-exec-8]: - release connection
+2022-05-29 18:40:36 DEBUG [http-nio-8080-exec-9]: - do EncodingFilter: UTF8
+2022-05-29 18:40:36 DEBUG [http-nio-8080-exec-9]: - user role: USER
+2022-05-29 18:40:36 DEBUG [http-nio-8080-exec-9]: - get instance of connection pool
+2022-05-29 18:40:36 DEBUG [http-nio-8080-exec-9]: - get connection
+2022-05-29 18:40:36 DEBUG [http-nio-8080-exec-9]: - get instance of connection pool
+2022-05-29 18:40:36 DEBUG [http-nio-8080-exec-9]: - release connection
+2022-05-29 18:40:36 DEBUG [http-nio-8080-exec-9]: - get order by  id
+2022-05-29 18:40:36 DEBUG [http-nio-8080-exec-9]: - get instance of connection pool
+2022-05-29 18:40:36 DEBUG [http-nio-8080-exec-9]: - get connection
+2022-05-29 18:40:36 DEBUG [http-nio-8080-exec-9]: - get instance of connection pool
+2022-05-29 18:40:36 DEBUG [http-nio-8080-exec-9]: - release connection
+2022-05-29 18:40:36 DEBUG [http-nio-8080-exec-9]: - get instance of connection pool
+2022-05-29 18:40:36 DEBUG [http-nio-8080-exec-9]: - get connection
+2022-05-29 18:40:36 DEBUG [http-nio-8080-exec-9]: - get instance of connection pool
+2022-05-29 18:40:36 DEBUG [http-nio-8080-exec-9]: - release connection
+2022-05-29 18:40:36 INFO  [http-nio-8080-exec-9]: - user paid for the order
+2022-05-29 18:40:36 DEBUG [http-nio-8080-exec-9]: - get instance of connection pool
+2022-05-29 18:40:36 DEBUG [http-nio-8080-exec-9]: - get connection
+2022-05-29 18:40:36 DEBUG [http-nio-8080-exec-9]: - get instance of connection pool
+2022-05-29 18:40:36 DEBUG [http-nio-8080-exec-9]: - release connection
+2022-05-29 18:40:36 DEBUG [http-nio-8080-exec-9]: - get instance of connection pool
+2022-05-29 18:40:36 DEBUG [http-nio-8080-exec-9]: - get connection
+2022-05-29 18:40:36 DEBUG [http-nio-8080-exec-9]: - update Order
+2022-05-29 18:40:36 DEBUG [http-nio-8080-exec-9]: - get instance of connection pool
+2022-05-29 18:40:36 DEBUG [http-nio-8080-exec-9]: - release connection
+2022-05-29 18:40:36 DEBUG [http-nio-8080-exec-10]: - do EncodingFilter: UTF8
+2022-05-29 18:40:36 DEBUG [http-nio-8080-exec-10]: - user role: USER
+2022-05-29 18:40:36 DEBUG [http-nio-8080-exec-10]: - get instance of connection pool
+2022-05-29 18:40:36 DEBUG [http-nio-8080-exec-10]: - get connection
+2022-05-29 18:40:36 DEBUG [http-nio-8080-exec-10]: - get instance of connection pool
+2022-05-29 18:40:36 DEBUG [http-nio-8080-exec-10]: - release connection
+2022-05-29 18:40:36 DEBUG [http-nio-8080-exec-10]: - get instance of connection pool
+2022-05-29 18:40:36 DEBUG [http-nio-8080-exec-10]: - get connection
+2022-05-29 18:40:36 DEBUG [http-nio-8080-exec-10]: - get instance of connection pool
+2022-05-29 18:40:36 DEBUG [http-nio-8080-exec-10]: - release connection
+2022-05-29 18:40:36 DEBUG [http-nio-8080-exec-10]: - get all orders
+2022-05-29 18:40:36 DEBUG [http-nio-8080-exec-10]: - get instance of connection pool
+2022-05-29 18:40:36 DEBUG [http-nio-8080-exec-10]: - get connection
+2022-05-29 18:40:36 DEBUG [http-nio-8080-exec-10]: - get instance of connection pool
+2022-05-29 18:40:36 DEBUG [http-nio-8080-exec-10]: - release connection
+2022-05-29 18:40:44 DEBUG [http-nio-8080-exec-1]: - do EncodingFilter: UTF8
+2022-05-29 18:40:44 DEBUG [http-nio-8080-exec-1]: - user role: ADMIN
+2022-05-29 18:40:44 INFO  [http-nio-8080-exec-1]: - method post action: remove
+2022-05-29 18:40:44 INFO  [http-nio-8080-exec-1]: - remove car
+2022-05-29 18:40:44 DEBUG [http-nio-8080-exec-1]: - get instance of connection pool
+2022-05-29 18:40:44 DEBUG [http-nio-8080-exec-1]: - get connection
+2022-05-29 18:40:44 DEBUG [http-nio-8080-exec-1]: - get instance of connection pool
+2022-05-29 18:40:44 DEBUG [http-nio-8080-exec-1]: - release connection
+2022-05-29 18:40:44 DEBUG [http-nio-8080-exec-2]: - do EncodingFilter: UTF8
+2022-05-29 18:40:44 DEBUG [http-nio-8080-exec-2]: - user role: ADMIN
+2022-05-29 18:40:44 INFO  [http-nio-8080-exec-2]: - action: null
+2022-05-29 18:40:44 DEBUG [http-nio-8080-exec-2]: - get instance of connection pool
+2022-05-29 18:40:44 DEBUG [http-nio-8080-exec-2]: - get connection
+2022-05-29 18:40:44 DEBUG [http-nio-8080-exec-2]: - get instance of connection pool
+2022-05-29 18:40:44 DEBUG [http-nio-8080-exec-2]: - release connection
+2022-05-29 18:40:44 DEBUG [http-nio-8080-exec-3]: - do EncodingFilter: UTF8
+2022-05-29 18:40:44 DEBUG [http-nio-8080-exec-3]: - user role: ADMIN
+2022-05-29 18:40:49 DEBUG [http-nio-8080-exec-4]: - do EncodingFilter: UTF8
+2022-05-29 18:40:49 DEBUG [http-nio-8080-exec-4]: - user role: ADMIN
+2022-05-29 18:40:49 DEBUG [http-nio-8080-exec-4]: - get all orders
+2022-05-29 18:40:49 DEBUG [http-nio-8080-exec-4]: - get instance of connection pool
+2022-05-29 18:40:49 DEBUG [http-nio-8080-exec-4]: - get connection
+2022-05-29 18:40:49 DEBUG [http-nio-8080-exec-4]: - get instance of connection pool
+2022-05-29 18:40:49 DEBUG [http-nio-8080-exec-4]: - release connection
+2022-05-29 18:40:49 DEBUG [http-nio-8080-exec-4]: - return admin_orders.jsp
+2022-05-29 18:40:49 DEBUG [http-nio-8080-exec-5]: - do EncodingFilter: UTF8
+2022-05-29 18:40:49 DEBUG [http-nio-8080-exec-5]: - user role: ADMIN
+2022-05-29 18:40:55 DEBUG [http-nio-8080-exec-7]: - do EncodingFilter: UTF8
+2022-05-29 18:40:55 DEBUG [http-nio-8080-exec-7]: - user role: ADMIN
+2022-05-29 18:40:55 DEBUG [http-nio-8080-exec-7]: - get order by  id
+2022-05-29 18:40:55 DEBUG [http-nio-8080-exec-7]: - get instance of connection pool
+2022-05-29 18:40:55 DEBUG [http-nio-8080-exec-7]: - get connection
+2022-05-29 18:40:55 DEBUG [http-nio-8080-exec-7]: - get instance of connection pool
+2022-05-29 18:40:55 DEBUG [http-nio-8080-exec-7]: - release connection
+2022-05-29 18:40:55 DEBUG [http-nio-8080-exec-7]: - get instance of connection pool
+2022-05-29 18:40:55 DEBUG [http-nio-8080-exec-7]: - get connection
+2022-05-29 18:40:55 DEBUG [http-nio-8080-exec-7]: - update Order
+2022-05-29 18:40:55 DEBUG [http-nio-8080-exec-7]: - get instance of connection pool
+2022-05-29 18:40:55 DEBUG [http-nio-8080-exec-7]: - release connection
+2022-05-29 18:40:55 DEBUG [http-nio-8080-exec-7]: - get instance of connection pool
+2022-05-29 18:40:55 DEBUG [http-nio-8080-exec-7]: - get connection
+2022-05-29 18:40:55 DEBUG [http-nio-8080-exec-7]: - get instance of connection pool
+2022-05-29 18:40:55 DEBUG [http-nio-8080-exec-7]: - release connection
+2022-05-29 18:40:55 DEBUG [http-nio-8080-exec-7]: - get instance of connection pool
+2022-05-29 18:40:55 DEBUG [http-nio-8080-exec-7]: - get connection
+2022-05-29 18:40:55 DEBUG [http-nio-8080-exec-7]: - get instance of connection pool
+2022-05-29 18:40:55 DEBUG [http-nio-8080-exec-7]: - release connection
+2022-05-29 18:40:55 DEBUG [http-nio-8080-exec-8]: - do EncodingFilter: UTF8
+2022-05-29 18:40:55 DEBUG [http-nio-8080-exec-8]: - user role: ADMIN
+2022-05-29 18:40:55 DEBUG [http-nio-8080-exec-8]: - get all orders
+2022-05-29 18:40:55 DEBUG [http-nio-8080-exec-8]: - get instance of connection pool
+2022-05-29 18:40:55 DEBUG [http-nio-8080-exec-8]: - get connection
+2022-05-29 18:40:55 DEBUG [http-nio-8080-exec-8]: - get instance of connection pool
+2022-05-29 18:40:55 DEBUG [http-nio-8080-exec-8]: - release connection
+2022-05-29 18:40:55 DEBUG [http-nio-8080-exec-8]: - return admin_orders.jsp
+2022-05-29 18:40:55 DEBUG [http-nio-8080-exec-9]: - do EncodingFilter: UTF8
+2022-05-29 18:40:55 DEBUG [http-nio-8080-exec-9]: - user role: ADMIN
+2022-05-29 18:40:58 DEBUG [http-nio-8080-exec-1]: - do EncodingFilter: UTF8
+2022-05-29 18:40:58 DEBUG [http-nio-8080-exec-1]: - user role: ADMIN
+2022-05-29 18:40:58 DEBUG [http-nio-8080-exec-1]: - get instance of connection pool
+2022-05-29 18:40:58 DEBUG [http-nio-8080-exec-1]: - get connection
+2022-05-29 18:40:58 DEBUG [http-nio-8080-exec-1]: - get instance of connection pool
+2022-05-29 18:40:58 DEBUG [http-nio-8080-exec-1]: - release connection
+2022-05-29 18:40:58 INFO  [http-nio-8080-exec-1]: - return /list_user.jsp
+2022-05-29 18:40:59 DEBUG [http-nio-8080-exec-2]: - do EncodingFilter: UTF8
+2022-05-29 18:40:59 DEBUG [http-nio-8080-exec-2]: - user role: ADMIN
+2022-05-29 18:41:02 DEBUG [http-nio-8080-exec-3]: - do EncodingFilter: UTF8
+2022-05-29 18:41:02 DEBUG [http-nio-8080-exec-3]: - user role: ADMIN
+2022-05-29 18:41:02 INFO  [http-nio-8080-exec-3]: - action: null
+2022-05-29 18:41:02 DEBUG [http-nio-8080-exec-3]: - get instance of connection pool
+2022-05-29 18:41:02 DEBUG [http-nio-8080-exec-3]: - get connection
+2022-05-29 18:41:02 DEBUG [http-nio-8080-exec-3]: - get instance of connection pool
+2022-05-29 18:41:02 DEBUG [http-nio-8080-exec-3]: - release connection
+2022-05-29 18:41:02 DEBUG [http-nio-8080-exec-4]: - do EncodingFilter: UTF8
+2022-05-29 18:41:02 DEBUG [http-nio-8080-exec-4]: - user role: ADMIN
+2022-05-29 18:41:08 DEBUG [http-nio-8080-exec-5]: - do EncodingFilter: UTF8
+2022-05-29 18:41:08 DEBUG [http-nio-8080-exec-5]: - user role: ADMIN
+2022-05-29 18:41:08 INFO  [http-nio-8080-exec-5]: - method post action: remove
+2022-05-29 18:41:08 INFO  [http-nio-8080-exec-5]: - remove car
+2022-05-29 18:41:08 DEBUG [http-nio-8080-exec-5]: - get instance of connection pool
+2022-05-29 18:41:08 DEBUG [http-nio-8080-exec-5]: - get connection
+2022-05-29 18:41:08 DEBUG [http-nio-8080-exec-5]: - get instance of connection pool
+2022-05-29 18:41:08 DEBUG [http-nio-8080-exec-5]: - release connection
+2022-05-29 18:41:08 DEBUG [http-nio-8080-exec-5]: - get instance of connection pool
+2022-05-29 18:41:08 DEBUG [http-nio-8080-exec-5]: - get connection
+2022-05-29 18:41:08 DEBUG [http-nio-8080-exec-5]: - delete Order by car id
+2022-05-29 18:41:08 DEBUG [http-nio-8080-exec-5]: - get instance of connection pool
+2022-05-29 18:41:08 DEBUG [http-nio-8080-exec-5]: - get connection
+2022-05-29 18:41:08 DEBUG [http-nio-8080-exec-5]: - get instance of connection pool
+2022-05-29 18:41:08 DEBUG [http-nio-8080-exec-5]: - release connection
+2022-05-29 18:41:08 DEBUG [http-nio-8080-exec-6]: - do EncodingFilter: UTF8
+2022-05-29 18:41:08 DEBUG [http-nio-8080-exec-6]: - user role: ADMIN
+2022-05-29 18:41:08 INFO  [http-nio-8080-exec-6]: - action: null
+2022-05-29 18:41:08 DEBUG [http-nio-8080-exec-6]: - get instance of connection pool
+2022-05-29 18:41:08 DEBUG [http-nio-8080-exec-6]: - get connection
+2022-05-29 18:41:08 DEBUG [http-nio-8080-exec-6]: - get instance of connection pool
+2022-05-29 18:41:08 DEBUG [http-nio-8080-exec-6]: - release connection
+2022-05-29 18:41:09 DEBUG [http-nio-8080-exec-7]: - do EncodingFilter: UTF8
+2022-05-29 18:41:09 DEBUG [http-nio-8080-exec-7]: - user role: ADMIN
+2022-05-29 18:42:10 DEBUG [http-nio-8080-exec-9]: - do EncodingFilter: UTF8
+2022-05-29 18:42:10 DEBUG [http-nio-8080-exec-9]: - user role: USER
+2022-05-29 18:42:10 DEBUG [http-nio-8080-exec-9]: - get instance of connection pool
+2022-05-29 18:42:10 DEBUG [http-nio-8080-exec-9]: - get connection
+2022-05-29 18:42:10 DEBUG [http-nio-8080-exec-9]: - get instance of connection pool
+2022-05-29 18:42:10 DEBUG [http-nio-8080-exec-9]: - release connection
+2022-05-29 18:42:10 DEBUG [http-nio-8080-exec-9]: - get instance of connection pool
+2022-05-29 18:42:10 DEBUG [http-nio-8080-exec-9]: - get connection
+2022-05-29 18:42:10 DEBUG [http-nio-8080-exec-9]: - get instance of connection pool
+2022-05-29 18:42:10 DEBUG [http-nio-8080-exec-9]: - release connection
+2022-05-29 18:42:10 DEBUG [http-nio-8080-exec-9]: - get all orders
+2022-05-29 18:42:10 DEBUG [http-nio-8080-exec-9]: - get instance of connection pool
+2022-05-29 18:42:10 DEBUG [http-nio-8080-exec-9]: - get connection
+2022-05-29 18:42:10 DEBUG [http-nio-8080-exec-9]: - get instance of connection pool
+2022-05-29 18:42:10 DEBUG [http-nio-8080-exec-9]: - release connection
+2022-05-29 18:42:18 DEBUG [http-nio-8080-exec-10]: - do EncodingFilter: UTF8
+2022-05-29 18:42:18 DEBUG [http-nio-8080-exec-10]: - user role: ADMIN
+2022-05-29 18:42:18 INFO  [http-nio-8080-exec-10]: - action: null
+2022-05-29 18:42:18 DEBUG [http-nio-8080-exec-10]: - get instance of connection pool
+2022-05-29 18:42:18 DEBUG [http-nio-8080-exec-10]: - get connection
+2022-05-29 18:42:18 DEBUG [http-nio-8080-exec-10]: - get instance of connection pool
+2022-05-29 18:42:18 DEBUG [http-nio-8080-exec-10]: - release connection
+2022-05-29 18:42:18 DEBUG [http-nio-8080-exec-1]: - do EncodingFilter: UTF8
+2022-05-29 18:42:18 DEBUG [http-nio-8080-exec-1]: - user role: ADMIN
+2022-05-29 18:42:21 DEBUG [http-nio-8080-exec-2]: - do EncodingFilter: UTF8
+2022-05-29 18:42:21 DEBUG [http-nio-8080-exec-2]: - user role: ADMIN
+2022-05-29 18:42:21 INFO  [http-nio-8080-exec-2]: - method post action: remove
+2022-05-29 18:42:21 INFO  [http-nio-8080-exec-2]: - remove car
+2022-05-29 18:42:21 DEBUG [http-nio-8080-exec-2]: - get instance of connection pool
+2022-05-29 18:42:21 DEBUG [http-nio-8080-exec-2]: - get connection
+2022-05-29 18:42:21 DEBUG [http-nio-8080-exec-2]: - get instance of connection pool
+2022-05-29 18:42:21 DEBUG [http-nio-8080-exec-2]: - release connection
+2022-05-29 18:42:21 DEBUG [http-nio-8080-exec-2]: - get instance of connection pool
+2022-05-29 18:42:21 DEBUG [http-nio-8080-exec-2]: - get connection
+2022-05-29 18:42:21 DEBUG [http-nio-8080-exec-2]: - get instance of connection pool
+2022-05-29 18:42:21 DEBUG [http-nio-8080-exec-2]: - release connection
+2022-05-29 18:42:21 DEBUG [http-nio-8080-exec-2]: - delete Order by car id
+2022-05-29 18:42:21 DEBUG [http-nio-8080-exec-2]: - get instance of connection pool
+2022-05-29 18:42:21 DEBUG [http-nio-8080-exec-2]: - get connection
+2022-05-29 18:42:21 DEBUG [http-nio-8080-exec-2]: - get instance of connection pool
+2022-05-29 18:42:21 DEBUG [http-nio-8080-exec-2]: - release connection
+2022-05-29 18:42:21 DEBUG [http-nio-8080-exec-3]: - do EncodingFilter: UTF8
+2022-05-29 18:42:21 DEBUG [http-nio-8080-exec-3]: - user role: ADMIN
+2022-05-29 18:42:21 INFO  [http-nio-8080-exec-3]: - action: null
+2022-05-29 18:42:21 DEBUG [http-nio-8080-exec-3]: - get instance of connection pool
+2022-05-29 18:42:21 DEBUG [http-nio-8080-exec-3]: - get connection
+2022-05-29 18:42:21 DEBUG [http-nio-8080-exec-3]: - get instance of connection pool
+2022-05-29 18:42:21 DEBUG [http-nio-8080-exec-3]: - release connection
+2022-05-29 18:42:21 DEBUG [http-nio-8080-exec-4]: - do EncodingFilter: UTF8
+2022-05-29 18:42:21 DEBUG [http-nio-8080-exec-4]: - user role: ADMIN
+2022-05-29 18:44:08 DEBUG [http-nio-8080-exec-8]: - do EncodingFilter: UTF8
+2022-05-29 18:44:08 DEBUG [http-nio-8080-exec-8]: - user role: ADMIN
+2022-05-29 18:44:08 INFO  [http-nio-8080-exec-8]: - action: null
+2022-05-29 18:44:08 DEBUG [http-nio-8080-exec-8]: - get instance of connection pool
+2022-05-29 18:44:08 DEBUG [http-nio-8080-exec-8]: - get connection
+2022-05-29 18:44:08 DEBUG [http-nio-8080-exec-8]: - get instance of connection pool
+2022-05-29 18:44:08 DEBUG [http-nio-8080-exec-8]: - release connection
+2022-05-29 18:44:09 DEBUG [http-nio-8080-exec-9]: - do EncodingFilter: UTF8
+2022-05-29 18:44:09 DEBUG [http-nio-8080-exec-9]: - user role: ADMIN
+2022-05-29 18:45:19 DEBUG [http-nio-8080-exec-1]: - do EncodingFilter: UTF8
+2022-05-29 18:45:19 DEBUG [http-nio-8080-exec-1]: - user role: ADMIN
+2022-05-29 18:45:19 INFO  [http-nio-8080-exec-1]: - action: null
+2022-05-29 18:45:19 DEBUG [http-nio-8080-exec-1]: - get instance of connection pool
+2022-05-29 18:45:19 DEBUG [http-nio-8080-exec-1]: - get connection
+2022-05-29 18:45:19 DEBUG [http-nio-8080-exec-1]: - get instance of connection pool
+2022-05-29 18:45:19 DEBUG [http-nio-8080-exec-1]: - release connection
+2022-05-29 18:45:19 DEBUG [http-nio-8080-exec-2]: - do EncodingFilter: UTF8
+2022-05-29 18:45:19 DEBUG [http-nio-8080-exec-2]: - user role: ADMIN
+2022-05-29 18:45:24 DEBUG [http-nio-8080-exec-3]: - do EncodingFilter: UTF8
+2022-05-29 18:45:24 DEBUG [http-nio-8080-exec-3]: - user role: ADMIN
+2022-05-29 18:45:24 INFO  [http-nio-8080-exec-3]: - method post action: remove
+2022-05-29 18:45:24 INFO  [http-nio-8080-exec-3]: - remove car
+2022-05-29 18:45:24 DEBUG [http-nio-8080-exec-3]: - get instance of connection pool
+2022-05-29 18:45:24 DEBUG [http-nio-8080-exec-3]: - get connection
+2022-05-29 18:45:24 DEBUG [http-nio-8080-exec-3]: - get instance of connection pool
+2022-05-29 18:45:24 DEBUG [http-nio-8080-exec-3]: - release connection
+2022-05-29 18:45:24 DEBUG [http-nio-8080-exec-3]: - get instance of connection pool
+2022-05-29 18:45:24 DEBUG [http-nio-8080-exec-3]: - get connection
+2022-05-29 18:45:24 DEBUG [http-nio-8080-exec-3]: - delete Order by car id
+2022-05-29 18:45:24 DEBUG [http-nio-8080-exec-3]: - get instance of connection pool
+2022-05-29 18:45:24 DEBUG [http-nio-8080-exec-3]: - get connection
+2022-05-29 18:45:24 DEBUG [http-nio-8080-exec-3]: - get instance of connection pool
+2022-05-29 18:45:24 DEBUG [http-nio-8080-exec-3]: - release connection
+2022-05-29 18:45:24 DEBUG [http-nio-8080-exec-4]: - do EncodingFilter: UTF8
+2022-05-29 18:45:24 DEBUG [http-nio-8080-exec-4]: - user role: ADMIN
+2022-05-29 18:45:24 INFO  [http-nio-8080-exec-4]: - action: null
+2022-05-29 18:45:24 DEBUG [http-nio-8080-exec-4]: - get instance of connection pool
+2022-05-29 18:45:24 DEBUG [http-nio-8080-exec-4]: - get connection
+2022-05-29 18:45:24 DEBUG [http-nio-8080-exec-4]: - get instance of connection pool
+2022-05-29 18:45:24 DEBUG [http-nio-8080-exec-4]: - release connection
+2022-05-29 18:45:24 DEBUG [http-nio-8080-exec-6]: - do EncodingFilter: UTF8
+2022-05-29 18:45:24 DEBUG [http-nio-8080-exec-6]: - user role: ADMIN
+2022-05-29 18:45:42 DEBUG [http-nio-8080-exec-5]: - do EncodingFilter: UTF8
+2022-05-29 18:45:42 DEBUG [http-nio-8080-exec-5]: - user role: ADMIN
+2022-05-29 18:45:42 INFO  [http-nio-8080-exec-5]: - method post action: remove
+2022-05-29 18:45:42 INFO  [http-nio-8080-exec-5]: - remove car
+2022-05-29 18:45:42 DEBUG [http-nio-8080-exec-5]: - get instance of connection pool
+2022-05-29 18:45:42 DEBUG [http-nio-8080-exec-5]: - get connection
+2022-05-29 18:45:42 DEBUG [http-nio-8080-exec-5]: - get instance of connection pool
+2022-05-29 18:45:42 DEBUG [http-nio-8080-exec-5]: - release connection
+2022-05-29 18:45:42 DEBUG [http-nio-8080-exec-5]: - get instance of connection pool
+2022-05-29 18:45:42 DEBUG [http-nio-8080-exec-5]: - get connection
+2022-05-29 18:45:42 DEBUG [http-nio-8080-exec-5]: - get instance of connection pool
+2022-05-29 18:45:42 DEBUG [http-nio-8080-exec-5]: - release connection
+2022-05-29 18:45:42 DEBUG [http-nio-8080-exec-5]: - delete Order by car id
+2022-05-29 18:45:42 DEBUG [http-nio-8080-exec-5]: - get instance of connection pool
+2022-05-29 18:45:42 DEBUG [http-nio-8080-exec-5]: - get connection
+2022-05-29 18:45:42 DEBUG [http-nio-8080-exec-5]: - get instance of connection pool
+2022-05-29 18:45:42 DEBUG [http-nio-8080-exec-5]: - release connection
+2022-05-29 18:45:42 DEBUG [http-nio-8080-exec-7]: - do EncodingFilter: UTF8
+2022-05-29 18:45:42 DEBUG [http-nio-8080-exec-7]: - user role: ADMIN
+2022-05-29 18:45:42 INFO  [http-nio-8080-exec-7]: - action: null
+2022-05-29 18:45:42 DEBUG [http-nio-8080-exec-7]: - get instance of connection pool
+2022-05-29 18:45:42 DEBUG [http-nio-8080-exec-7]: - get connection
+2022-05-29 18:45:42 DEBUG [http-nio-8080-exec-7]: - get instance of connection pool
+2022-05-29 18:45:42 DEBUG [http-nio-8080-exec-7]: - release connection
+2022-05-29 18:45:42 DEBUG [http-nio-8080-exec-8]: - do EncodingFilter: UTF8
+2022-05-29 18:45:42 DEBUG [http-nio-8080-exec-8]: - user role: ADMIN
+2022-05-29 20:37:12 DEBUG [main]: - Start context listener
+2022-05-29 20:37:12 DEBUG [main]: - get instance of connection pool
+2022-05-29 20:37:12 DEBUG [main]: - create connection
+2022-05-29 20:37:13 DEBUG [main]: - create connection
+2022-05-29 20:37:13 DEBUG [main]: - create connection
+2022-05-29 20:37:13 DEBUG [main]: - create connection
+2022-05-29 20:37:13 DEBUG [main]: - create connection
+2022-05-29 20:37:13 DEBUG [main]: - create connection
+2022-05-29 20:37:13 DEBUG [main]: - create connection
+2022-05-29 20:37:13 DEBUG [main]: - create connection
+2022-05-29 20:37:13 DEBUG [main]: - create connection
+2022-05-29 20:37:13 DEBUG [main]: - create connection
+2022-05-29 20:37:13 DEBUG [main]: - init EncodingFilter
+2022-05-29 20:37:13 DEBUG [main]: - init permission filter
+2022-06-02 12:01:21 DEBUG [main]: - Start context listener
+2022-06-02 12:01:21 DEBUG [main]: - get instance of connection pool
+2022-06-02 12:01:21 DEBUG [main]: - create connection
+2022-06-02 12:01:22 DEBUG [main]: - create connection
+2022-06-02 12:01:22 DEBUG [main]: - create connection
+2022-06-02 12:01:22 DEBUG [main]: - create connection
+2022-06-02 12:01:22 DEBUG [main]: - create connection
+2022-06-02 12:01:22 DEBUG [main]: - create connection
+2022-06-02 12:01:22 DEBUG [main]: - create connection
+2022-06-02 12:01:22 DEBUG [main]: - create connection
+2022-06-02 12:01:22 DEBUG [main]: - create connection
+2022-06-02 12:01:22 DEBUG [main]: - create connection
+2022-06-02 12:01:22 DEBUG [main]: - init EncodingFilter
+2022-06-02 12:01:22 DEBUG [main]: - init permission filter
+2022-06-02 12:01:24 DEBUG [http-nio-8080-exec-2]: - do EncodingFilter: UTF8
+2022-06-02 12:01:24 DEBUG [http-nio-8080-exec-2]: - user role: GUEST
+2022-06-02 12:01:24 DEBUG [http-nio-8080-exec-2]: - get instance of connection pool
+2022-06-02 12:01:24 DEBUG [http-nio-8080-exec-2]: - get connection
+2022-06-02 12:01:24 DEBUG [http-nio-8080-exec-2]: - get instance of connection pool
+2022-06-02 12:01:24 DEBUG [http-nio-8080-exec-2]: - release connection
+2022-06-02 12:01:24 DEBUG [http-nio-8080-exec-2]: - get instance of connection pool
+2022-06-02 12:01:24 DEBUG [http-nio-8080-exec-2]: - get connection
+2022-06-02 12:01:24 DEBUG [http-nio-8080-exec-2]: - get instance of connection pool
+2022-06-02 12:01:24 DEBUG [http-nio-8080-exec-2]: - release connection
+2022-06-02 12:01:25 DEBUG [http-nio-8080-exec-3]: - do EncodingFilter: UTF8
+2022-06-02 12:01:25 DEBUG [http-nio-8080-exec-3]: - user role: GUEST
+2022-06-02 12:01:28 DEBUG [http-nio-8080-exec-4]: - do EncodingFilter: UTF8
+2022-06-02 12:01:28 DEBUG [http-nio-8080-exec-4]: - user role: GUEST
+2022-06-02 12:01:28 DEBUG [http-nio-8080-exec-4]: - return login page
+2022-06-02 12:01:28 DEBUG [http-nio-8080-exec-5]: - do EncodingFilter: UTF8
+2022-06-02 12:01:28 DEBUG [http-nio-8080-exec-5]: - user role: GUEST
+2022-06-02 12:01:30 DEBUG [http-nio-8080-exec-7]: - do EncodingFilter: UTF8
+2022-06-02 12:01:30 DEBUG [http-nio-8080-exec-7]: - user role: GUEST
+2022-06-02 12:01:30 DEBUG [http-nio-8080-exec-8]: - do EncodingFilter: UTF8
+2022-06-02 12:01:30 DEBUG [http-nio-8080-exec-8]: - user role: GUEST
+2022-06-02 12:01:42 DEBUG [http-nio-8080-exec-9]: - do EncodingFilter: UTF8
+2022-06-02 12:01:42 DEBUG [http-nio-8080-exec-9]: - user role: GUEST
+2022-06-02 12:01:42 DEBUG [http-nio-8080-exec-9]: - get instance of connection pool
+2022-06-02 12:01:42 DEBUG [http-nio-8080-exec-9]: - get connection
+2022-06-02 12:01:42 DEBUG [http-nio-8080-exec-9]: - get instance of connection pool
+2022-06-02 12:01:42 DEBUG [http-nio-8080-exec-9]: - release connection
+2022-06-02 12:01:42 DEBUG [http-nio-8080-exec-9]: - user login in system
+2022-06-02 12:01:42 DEBUG [http-nio-8080-exec-10]: - do EncodingFilter: UTF8
+2022-06-02 12:01:42 DEBUG [http-nio-8080-exec-10]: - user role: USER
+2022-06-02 12:01:42 DEBUG [http-nio-8080-exec-10]: - get instance of connection pool
+2022-06-02 12:01:42 DEBUG [http-nio-8080-exec-10]: - get connection
+2022-06-02 12:01:42 DEBUG [http-nio-8080-exec-10]: - get instance of connection pool
+2022-06-02 12:01:42 DEBUG [http-nio-8080-exec-10]: - release connection
+2022-06-02 12:01:42 DEBUG [http-nio-8080-exec-10]: - get instance of connection pool
+2022-06-02 12:01:42 DEBUG [http-nio-8080-exec-10]: - get connection
+2022-06-02 12:01:42 DEBUG [http-nio-8080-exec-10]: - get instance of connection pool
+2022-06-02 12:01:42 DEBUG [http-nio-8080-exec-10]: - release connection
+2022-06-02 12:01:42 DEBUG [http-nio-8080-exec-10]: - get instance of connection pool
+2022-06-02 12:01:42 DEBUG [http-nio-8080-exec-10]: - get connection
+2022-06-02 12:01:42 DEBUG [http-nio-8080-exec-10]: - get instance of connection pool
+2022-06-02 12:01:42 DEBUG [http-nio-8080-exec-10]: - release connection
+2022-06-02 12:01:42 DEBUG [http-nio-8080-exec-1]: - do EncodingFilter: UTF8
+2022-06-02 12:01:42 DEBUG [http-nio-8080-exec-1]: - user role: USER
+2022-06-02 12:01:42 DEBUG [http-nio-8080-exec-1]: - get instance of connection pool
+2022-06-02 12:01:42 DEBUG [http-nio-8080-exec-1]: - get connection
+2022-06-02 12:01:42 DEBUG [http-nio-8080-exec-1]: - get instance of connection pool
+2022-06-02 12:01:42 DEBUG [http-nio-8080-exec-1]: - release connection
+2022-06-02 12:01:47 DEBUG [http-nio-8080-exec-3]: - do EncodingFilter: UTF8
+2022-06-02 12:01:47 DEBUG [http-nio-8080-exec-3]: - user role: USER
+2022-06-02 12:01:47 DEBUG [http-nio-8080-exec-3]: - get instance of connection pool
+2022-06-02 12:01:47 DEBUG [http-nio-8080-exec-3]: - get connection
+2022-06-02 12:01:47 DEBUG [http-nio-8080-exec-3]: - get instance of connection pool
+2022-06-02 12:01:47 DEBUG [http-nio-8080-exec-3]: - release connection
+2022-06-02 12:01:47 DEBUG [http-nio-8080-exec-3]: - get instance of connection pool
+2022-06-02 12:01:47 DEBUG [http-nio-8080-exec-3]: - get connection
+2022-06-02 12:01:47 DEBUG [http-nio-8080-exec-3]: - get instance of connection pool
+2022-06-02 12:01:47 DEBUG [http-nio-8080-exec-3]: - release connection
+2022-06-02 12:01:47 DEBUG [http-nio-8080-exec-3]: - get order by user id
+2022-06-02 12:01:47 DEBUG [http-nio-8080-exec-3]: - get instance of connection pool
+2022-06-02 12:01:47 DEBUG [http-nio-8080-exec-3]: - get connection
+2022-06-02 12:01:47 DEBUG [http-nio-8080-exec-3]: - get instance of connection pool
+2022-06-02 12:01:47 DEBUG [http-nio-8080-exec-3]: - release connection
+2022-06-02 12:01:47 DEBUG [http-nio-8080-exec-6]: - do EncodingFilter: UTF8
+2022-06-02 12:01:47 DEBUG [http-nio-8080-exec-6]: - user role: USER
+2022-06-02 12:01:47 DEBUG [http-nio-8080-exec-6]: - get instance of connection pool
+2022-06-02 12:01:47 DEBUG [http-nio-8080-exec-6]: - get connection
+2022-06-02 12:01:47 DEBUG [http-nio-8080-exec-6]: - get instance of connection pool
+2022-06-02 12:01:47 DEBUG [http-nio-8080-exec-6]: - release connection
+2022-06-02 12:04:39 DEBUG [http-nio-8080-exec-7]: - do EncodingFilter: UTF8
+2022-06-02 12:04:39 DEBUG [http-nio-8080-exec-7]: - user role: USER
+2022-06-02 12:04:39 DEBUG [http-nio-8080-exec-7]: - get instance of connection pool
+2022-06-02 12:04:39 DEBUG [http-nio-8080-exec-7]: - get connection
+2022-06-02 12:04:39 DEBUG [http-nio-8080-exec-7]: - get instance of connection pool
+2022-06-02 12:04:39 DEBUG [http-nio-8080-exec-7]: - release connection
+2022-06-02 12:04:39 DEBUG [http-nio-8080-exec-7]: - get instance of connection pool
+2022-06-02 12:04:39 DEBUG [http-nio-8080-exec-7]: - get connection
+2022-06-02 12:04:39 DEBUG [http-nio-8080-exec-7]: - get instance of connection pool
+2022-06-02 12:04:39 DEBUG [http-nio-8080-exec-7]: - release connection
+2022-06-02 12:04:39 DEBUG [http-nio-8080-exec-7]: - get order by user id
+2022-06-02 12:04:39 DEBUG [http-nio-8080-exec-7]: - get instance of connection pool
+2022-06-02 12:04:39 DEBUG [http-nio-8080-exec-7]: - get connection
+2022-06-02 12:04:39 DEBUG [http-nio-8080-exec-7]: - get instance of connection pool
+2022-06-02 12:04:39 DEBUG [http-nio-8080-exec-7]: - release connection
+2022-06-02 12:04:39 DEBUG [http-nio-8080-exec-8]: - do EncodingFilter: UTF8
+2022-06-02 12:04:39 DEBUG [http-nio-8080-exec-8]: - user role: USER
+2022-06-02 12:04:39 DEBUG [http-nio-8080-exec-8]: - get instance of connection pool
+2022-06-02 12:04:39 DEBUG [http-nio-8080-exec-8]: - get connection
+2022-06-02 12:04:39 DEBUG [http-nio-8080-exec-8]: - get instance of connection pool
+2022-06-02 12:04:39 DEBUG [http-nio-8080-exec-8]: - release connection
+2022-06-02 12:05:00 DEBUG [http-nio-8080-exec-1]: - do EncodingFilter: UTF8
+2022-06-02 12:05:00 DEBUG [http-nio-8080-exec-1]: - user role: USER
+2022-06-02 12:05:00 DEBUG [http-nio-8080-exec-1]: - get instance of connection pool
+2022-06-02 12:05:00 DEBUG [http-nio-8080-exec-1]: - get connection
+2022-06-02 12:05:00 DEBUG [http-nio-8080-exec-1]: - get instance of connection pool
+2022-06-02 12:05:00 DEBUG [http-nio-8080-exec-1]: - release connection
+2022-06-02 12:05:00 DEBUG [http-nio-8080-exec-1]: - get instance of connection pool
+2022-06-02 12:05:00 DEBUG [http-nio-8080-exec-1]: - get connection
+2022-06-02 12:05:00 DEBUG [http-nio-8080-exec-1]: - get instance of connection pool
+2022-06-02 12:05:00 DEBUG [http-nio-8080-exec-1]: - release connection
+2022-06-02 12:05:00 DEBUG [http-nio-8080-exec-1]: - get order by user id
+2022-06-02 12:05:00 DEBUG [http-nio-8080-exec-1]: - get instance of connection pool
+2022-06-02 12:05:00 DEBUG [http-nio-8080-exec-1]: - get connection
+2022-06-02 12:05:00 DEBUG [http-nio-8080-exec-1]: - get instance of connection pool
+2022-06-02 12:05:00 DEBUG [http-nio-8080-exec-1]: - release connection
+2022-06-02 12:05:00 DEBUG [http-nio-8080-exec-2]: - do EncodingFilter: UTF8
+2022-06-02 12:05:00 DEBUG [http-nio-8080-exec-2]: - user role: USER
+2022-06-02 12:05:00 DEBUG [http-nio-8080-exec-2]: - get instance of connection pool
+2022-06-02 12:05:00 DEBUG [http-nio-8080-exec-2]: - get connection
+2022-06-02 12:05:00 DEBUG [http-nio-8080-exec-2]: - get instance of connection pool
+2022-06-02 12:05:00 DEBUG [http-nio-8080-exec-2]: - release connection
+2022-06-02 12:05:27 DEBUG [http-nio-8080-exec-4]: - do EncodingFilter: UTF8
+2022-06-02 12:05:27 DEBUG [http-nio-8080-exec-4]: - user role: USER
+2022-06-02 12:05:27 DEBUG [http-nio-8080-exec-4]: - get instance of connection pool
+2022-06-02 12:05:27 DEBUG [http-nio-8080-exec-4]: - get connection
+2022-06-02 12:05:27 DEBUG [http-nio-8080-exec-4]: - get instance of connection pool
+2022-06-02 12:05:27 DEBUG [http-nio-8080-exec-4]: - release connection
+2022-06-02 12:05:27 DEBUG [http-nio-8080-exec-4]: - return login page
+2022-06-02 12:05:27 DEBUG [http-nio-8080-exec-5]: - do EncodingFilter: UTF8
+2022-06-02 12:05:27 DEBUG [http-nio-8080-exec-5]: - user role: USER
+2022-06-02 12:05:27 DEBUG [http-nio-8080-exec-5]: - get instance of connection pool
+2022-06-02 12:05:27 DEBUG [http-nio-8080-exec-5]: - get connection
+2022-06-02 12:05:27 DEBUG [http-nio-8080-exec-5]: - get instance of connection pool
+2022-06-02 12:05:27 DEBUG [http-nio-8080-exec-5]: - release connection
+2022-06-02 12:05:31 DEBUG [http-nio-8080-exec-7]: - do EncodingFilter: UTF8
+2022-06-02 12:05:31 DEBUG [http-nio-8080-exec-7]: - user role: USER
+2022-06-02 12:05:31 DEBUG [http-nio-8080-exec-7]: - get instance of connection pool
+2022-06-02 12:05:31 DEBUG [http-nio-8080-exec-7]: - get connection
+2022-06-02 12:05:31 DEBUG [http-nio-8080-exec-7]: - get instance of connection pool
+2022-06-02 12:05:31 DEBUG [http-nio-8080-exec-7]: - release connection
+2022-06-02 12:05:31 DEBUG [http-nio-8080-exec-7]: - get instance of connection pool
+2022-06-02 12:05:31 DEBUG [http-nio-8080-exec-7]: - get connection
+2022-06-02 12:05:31 DEBUG [http-nio-8080-exec-7]: - get instance of connection pool
+2022-06-02 12:05:31 DEBUG [http-nio-8080-exec-7]: - release connection
+2022-06-02 12:05:31 DEBUG [http-nio-8080-exec-7]: - user login in system
+2022-06-02 12:05:31 DEBUG [http-nio-8080-exec-8]: - do EncodingFilter: UTF8
+2022-06-02 12:05:31 DEBUG [http-nio-8080-exec-8]: - user role: ADMIN
+2022-06-02 12:05:31 DEBUG [http-nio-8080-exec-8]: - get instance of connection pool
+2022-06-02 12:05:31 DEBUG [http-nio-8080-exec-8]: - get connection
+2022-06-02 12:05:31 DEBUG [http-nio-8080-exec-8]: - get instance of connection pool
+2022-06-02 12:05:31 DEBUG [http-nio-8080-exec-8]: - release connection
+2022-06-02 12:05:31 DEBUG [http-nio-8080-exec-8]: - get instance of connection pool
+2022-06-02 12:05:31 DEBUG [http-nio-8080-exec-8]: - get connection
+2022-06-02 12:05:31 DEBUG [http-nio-8080-exec-8]: - get instance of connection pool
+2022-06-02 12:05:31 DEBUG [http-nio-8080-exec-8]: - release connection
+2022-06-02 12:05:31 DEBUG [http-nio-8080-exec-9]: - do EncodingFilter: UTF8
+2022-06-02 12:05:31 DEBUG [http-nio-8080-exec-9]: - user role: ADMIN
+2022-06-02 12:05:34 DEBUG [http-nio-8080-exec-10]: - do EncodingFilter: UTF8
+2022-06-02 12:05:34 DEBUG [http-nio-8080-exec-10]: - user role: ADMIN
+2022-06-02 12:05:34 DEBUG [http-nio-8080-exec-10]: - get all orders
+2022-06-02 12:05:34 DEBUG [http-nio-8080-exec-10]: - get instance of connection pool
+2022-06-02 12:05:34 DEBUG [http-nio-8080-exec-10]: - get connection
+2022-06-02 12:05:34 DEBUG [http-nio-8080-exec-10]: - get instance of connection pool
+2022-06-02 12:05:34 DEBUG [http-nio-8080-exec-10]: - release connection
+2022-06-02 12:05:34 DEBUG [http-nio-8080-exec-10]: - return admin_orders.jsp
+2022-06-02 12:05:34 DEBUG [http-nio-8080-exec-1]: - do EncodingFilter: UTF8
+2022-06-02 12:05:34 DEBUG [http-nio-8080-exec-1]: - user role: ADMIN
+2022-06-02 12:07:02 DEBUG [http-nio-8080-exec-3]: - do EncodingFilter: UTF8
+2022-06-02 12:07:02 DEBUG [http-nio-8080-exec-3]: - user role: ADMIN
+2022-06-02 12:07:02 DEBUG [http-nio-8080-exec-4]: - do EncodingFilter: UTF8
+2022-06-02 12:07:02 DEBUG [http-nio-8080-exec-4]: - user role: ADMIN
+2022-06-02 12:07:02 DEBUG [http-nio-8080-exec-4]: - return login page
+2022-06-02 12:07:02 DEBUG [http-nio-8080-exec-5]: - do EncodingFilter: UTF8
+2022-06-02 12:07:02 DEBUG [http-nio-8080-exec-5]: - user role: ADMIN
+2022-06-02 12:07:27 DEBUG [http-nio-8080-exec-9]: - do EncodingFilter: UTF8
+2022-06-02 12:07:27 DEBUG [http-nio-8080-exec-9]: - user role: ADMIN
+2022-06-02 12:07:27 DEBUG [http-nio-8080-exec-9]: - get instance of connection pool
+2022-06-02 12:07:27 DEBUG [http-nio-8080-exec-9]: - get connection
+2022-06-02 12:07:27 DEBUG [http-nio-8080-exec-9]: - get instance of connection pool
+2022-06-02 12:07:27 DEBUG [http-nio-8080-exec-9]: - release connection
+2022-06-02 12:07:27 DEBUG [http-nio-8080-exec-9]: - user login in system
+2022-06-02 12:07:27 DEBUG [http-nio-8080-exec-10]: - do EncodingFilter: UTF8
+2022-06-02 12:07:27 DEBUG [http-nio-8080-exec-10]: - user role: USER
+2022-06-02 12:07:27 DEBUG [http-nio-8080-exec-10]: - get instance of connection pool
+2022-06-02 12:07:27 DEBUG [http-nio-8080-exec-10]: - get connection
+2022-06-02 12:07:27 DEBUG [http-nio-8080-exec-10]: - get instance of connection pool
+2022-06-02 12:07:27 DEBUG [http-nio-8080-exec-10]: - release connection
+2022-06-02 12:07:27 DEBUG [http-nio-8080-exec-10]: - get instance of connection pool
+2022-06-02 12:07:27 DEBUG [http-nio-8080-exec-10]: - get connection
+2022-06-02 12:07:27 DEBUG [http-nio-8080-exec-10]: - get instance of connection pool
+2022-06-02 12:07:27 DEBUG [http-nio-8080-exec-10]: - release connection
+2022-06-02 12:07:27 DEBUG [http-nio-8080-exec-10]: - get instance of connection pool
+2022-06-02 12:07:27 DEBUG [http-nio-8080-exec-10]: - get connection
+2022-06-02 12:07:27 DEBUG [http-nio-8080-exec-10]: - get instance of connection pool
+2022-06-02 12:07:27 DEBUG [http-nio-8080-exec-10]: - release connection
+2022-06-02 12:07:27 DEBUG [http-nio-8080-exec-1]: - do EncodingFilter: UTF8
+2022-06-02 12:07:27 DEBUG [http-nio-8080-exec-1]: - user role: USER
+2022-06-02 12:07:27 DEBUG [http-nio-8080-exec-1]: - get instance of connection pool
+2022-06-02 12:07:27 DEBUG [http-nio-8080-exec-1]: - get connection
+2022-06-02 12:07:27 DEBUG [http-nio-8080-exec-1]: - get instance of connection pool
+2022-06-02 12:07:27 DEBUG [http-nio-8080-exec-1]: - release connection
+2022-06-02 12:07:30 DEBUG [http-nio-8080-exec-2]: - do EncodingFilter: UTF8
+2022-06-02 12:07:30 DEBUG [http-nio-8080-exec-2]: - user role: USER
+2022-06-02 12:07:30 DEBUG [http-nio-8080-exec-2]: - get instance of connection pool
+2022-06-02 12:07:30 DEBUG [http-nio-8080-exec-2]: - get connection
+2022-06-02 12:07:30 DEBUG [http-nio-8080-exec-2]: - get instance of connection pool
+2022-06-02 12:07:30 DEBUG [http-nio-8080-exec-2]: - release connection
+2022-06-02 12:07:30 DEBUG [http-nio-8080-exec-2]: - get instance of connection pool
+2022-06-02 12:07:30 DEBUG [http-nio-8080-exec-2]: - get connection
+2022-06-02 12:07:30 DEBUG [http-nio-8080-exec-2]: - get instance of connection pool
+2022-06-02 12:07:30 DEBUG [http-nio-8080-exec-2]: - release connection
+2022-06-02 12:07:30 DEBUG [http-nio-8080-exec-2]: - get order by user id
+2022-06-02 12:07:30 DEBUG [http-nio-8080-exec-2]: - get instance of connection pool
+2022-06-02 12:07:30 DEBUG [http-nio-8080-exec-2]: - get connection
+2022-06-02 12:07:30 DEBUG [http-nio-8080-exec-2]: - get instance of connection pool
+2022-06-02 12:07:30 DEBUG [http-nio-8080-exec-2]: - release connection
+2022-06-02 12:07:30 DEBUG [http-nio-8080-exec-6]: - do EncodingFilter: UTF8
+2022-06-02 12:07:30 DEBUG [http-nio-8080-exec-6]: - user role: USER
+2022-06-02 12:07:30 DEBUG [http-nio-8080-exec-6]: - get instance of connection pool
+2022-06-02 12:07:30 DEBUG [http-nio-8080-exec-6]: - get connection
+2022-06-02 12:07:30 DEBUG [http-nio-8080-exec-6]: - get instance of connection pool
+2022-06-02 12:07:30 DEBUG [http-nio-8080-exec-6]: - release connection
+2022-06-02 12:07:32 DEBUG [http-nio-8080-exec-3]: - do EncodingFilter: UTF8
+2022-06-02 12:07:32 DEBUG [http-nio-8080-exec-3]: - user role: USER
+2022-06-02 12:07:32 DEBUG [http-nio-8080-exec-3]: - get instance of connection pool
+2022-06-02 12:07:32 DEBUG [http-nio-8080-exec-3]: - get connection
+2022-06-02 12:07:32 DEBUG [http-nio-8080-exec-3]: - get instance of connection pool
+2022-06-02 12:07:32 DEBUG [http-nio-8080-exec-3]: - release connection
+2022-06-02 12:07:32 DEBUG [http-nio-8080-exec-3]: - get instance of connection pool
+2022-06-02 12:07:32 DEBUG [http-nio-8080-exec-3]: - get connection
+2022-06-02 12:07:32 DEBUG [http-nio-8080-exec-3]: - get instance of connection pool
+2022-06-02 12:07:32 DEBUG [http-nio-8080-exec-3]: - release connection
+2022-06-02 12:07:32 DEBUG [http-nio-8080-exec-3]: - get instance of connection pool
+2022-06-02 12:07:32 DEBUG [http-nio-8080-exec-3]: - get connection
+2022-06-02 12:07:32 DEBUG [http-nio-8080-exec-3]: - get instance of connection pool
+2022-06-02 12:07:32 DEBUG [http-nio-8080-exec-3]: - release connection
+2022-06-02 12:08:59 DEBUG [main]: - Start context listener
+2022-06-02 12:08:59 DEBUG [main]: - get instance of connection pool
+2022-06-02 12:08:59 DEBUG [main]: - create connection
+2022-06-02 12:09:00 DEBUG [main]: - create connection
+2022-06-02 12:09:00 DEBUG [main]: - create connection
+2022-06-02 12:09:00 DEBUG [main]: - create connection
+2022-06-02 12:09:00 DEBUG [main]: - create connection
+2022-06-02 12:09:00 DEBUG [main]: - create connection
+2022-06-02 12:09:00 DEBUG [main]: - create connection
+2022-06-02 12:09:00 DEBUG [main]: - create connection
+2022-06-02 12:09:00 DEBUG [main]: - create connection
+2022-06-02 12:09:00 DEBUG [main]: - create connection
+2022-06-02 12:09:00 DEBUG [main]: - init EncodingFilter
+2022-06-02 12:09:00 DEBUG [main]: - init permission filter
+2022-06-02 12:09:01 DEBUG [http-nio-8080-exec-1]: - do EncodingFilter: UTF8
+2022-06-02 12:09:01 DEBUG [http-nio-8080-exec-1]: - user role: GUEST
+2022-06-02 12:09:01 DEBUG [http-nio-8080-exec-1]: - get instance of connection pool
+2022-06-02 12:09:01 DEBUG [http-nio-8080-exec-1]: - get connection
+2022-06-02 12:09:01 DEBUG [http-nio-8080-exec-1]: - get instance of connection pool
+2022-06-02 12:09:01 DEBUG [http-nio-8080-exec-1]: - release connection
+2022-06-02 12:09:01 DEBUG [http-nio-8080-exec-1]: - get instance of connection pool
+2022-06-02 12:09:01 DEBUG [http-nio-8080-exec-1]: - get connection
+2022-06-02 12:09:01 DEBUG [http-nio-8080-exec-1]: - get instance of connection pool
+2022-06-02 12:09:01 DEBUG [http-nio-8080-exec-1]: - release connection
+2022-06-02 12:09:01 DEBUG [http-nio-8080-exec-3]: - do EncodingFilter: UTF8
+2022-06-02 12:09:01 DEBUG [http-nio-8080-exec-3]: - user role: GUEST
+2022-06-02 12:09:13 DEBUG [http-nio-8080-exec-2]: - do EncodingFilter: UTF8
+2022-06-02 12:09:13 DEBUG [http-nio-8080-exec-2]: - user role: GUEST
+2022-06-02 12:09:13 DEBUG [http-nio-8080-exec-2]: - get instance of connection pool
+2022-06-02 12:09:13 DEBUG [http-nio-8080-exec-2]: - get connection
+2022-06-02 12:09:13 DEBUG [http-nio-8080-exec-2]: - get instance of connection pool
+2022-06-02 12:09:13 DEBUG [http-nio-8080-exec-2]: - release connection
+2022-06-02 12:09:13 DEBUG [http-nio-8080-exec-2]: - get instance of connection pool
+2022-06-02 12:09:13 DEBUG [http-nio-8080-exec-2]: - get connection
+2022-06-02 12:09:13 DEBUG [http-nio-8080-exec-2]: - get instance of connection pool
+2022-06-02 12:09:13 DEBUG [http-nio-8080-exec-2]: - release connection
+2022-06-02 12:09:13 DEBUG [http-nio-8080-exec-7]: - do EncodingFilter: UTF8
+2022-06-02 12:09:13 DEBUG [http-nio-8080-exec-7]: - user role: GUEST
+2022-06-02 12:09:16 DEBUG [http-nio-8080-exec-5]: - do EncodingFilter: UTF8
+2022-06-02 12:09:16 DEBUG [http-nio-8080-exec-5]: - user role: GUEST
+2022-06-02 12:09:16 DEBUG [http-nio-8080-exec-5]: - return login page
+2022-06-02 12:09:16 DEBUG [http-nio-8080-exec-6]: - do EncodingFilter: UTF8
+2022-06-02 12:09:16 DEBUG [http-nio-8080-exec-6]: - user role: GUEST
+2022-06-02 12:09:35 DEBUG [http-nio-8080-exec-9]: - do EncodingFilter: UTF8
+2022-06-02 12:09:35 DEBUG [http-nio-8080-exec-9]: - user role: GUEST
+2022-06-02 12:09:35 DEBUG [http-nio-8080-exec-9]: - get instance of connection pool
+2022-06-02 12:09:35 DEBUG [http-nio-8080-exec-9]: - get connection
+2022-06-02 12:09:35 DEBUG [http-nio-8080-exec-9]: - get instance of connection pool
+2022-06-02 12:09:35 DEBUG [http-nio-8080-exec-9]: - release connection
+2022-06-02 12:09:35 DEBUG [http-nio-8080-exec-9]: - get instance of connection pool
+2022-06-02 12:09:35 DEBUG [http-nio-8080-exec-9]: - get connection
+2022-06-02 12:09:35 DEBUG [http-nio-8080-exec-9]: - get instance of connection pool
+2022-06-02 12:09:35 DEBUG [http-nio-8080-exec-9]: - release connection
+2022-06-02 12:09:35 DEBUG [http-nio-8080-exec-10]: - do EncodingFilter: UTF8
+2022-06-02 12:09:35 DEBUG [http-nio-8080-exec-10]: - user role: GUEST
+2022-06-02 12:09:47 DEBUG [http-nio-8080-exec-1]: - do EncodingFilter: UTF8
+2022-06-02 12:09:47 DEBUG [http-nio-8080-exec-1]: - user role: GUEST
+2022-06-02 12:09:47 DEBUG [http-nio-8080-exec-1]: - get instance of connection pool
+2022-06-02 12:09:47 DEBUG [http-nio-8080-exec-1]: - get connection
+2022-06-02 12:09:47 DEBUG [http-nio-8080-exec-1]: - get instance of connection pool
+2022-06-02 12:09:47 DEBUG [http-nio-8080-exec-1]: - release connection
+2022-06-02 12:09:47 DEBUG [http-nio-8080-exec-1]: - get instance of connection pool
+2022-06-02 12:09:47 DEBUG [http-nio-8080-exec-1]: - get connection
+2022-06-02 12:09:47 DEBUG [http-nio-8080-exec-1]: - get instance of connection pool
+2022-06-02 12:09:47 DEBUG [http-nio-8080-exec-1]: - release connection
+2022-06-02 12:09:47 DEBUG [http-nio-8080-exec-3]: - do EncodingFilter: UTF8
+2022-06-02 12:09:47 DEBUG [http-nio-8080-exec-3]: - user role: GUEST
+2022-06-02 12:10:33 DEBUG [main]: - Start context listener
+2022-06-02 12:10:33 DEBUG [main]: - get instance of connection pool
+2022-06-02 12:10:33 DEBUG [main]: - create connection
+2022-06-02 12:10:34 DEBUG [main]: - create connection
+2022-06-02 12:10:34 DEBUG [main]: - create connection
+2022-06-02 12:10:34 DEBUG [main]: - create connection
+2022-06-02 12:10:34 DEBUG [main]: - create connection
+2022-06-02 12:10:34 DEBUG [main]: - create connection
+2022-06-02 12:10:34 DEBUG [main]: - create connection
+2022-06-02 12:10:34 DEBUG [main]: - create connection
+2022-06-02 12:10:34 DEBUG [main]: - create connection
+2022-06-02 12:10:34 DEBUG [main]: - create connection
+2022-06-02 12:10:34 DEBUG [main]: - init EncodingFilter
+2022-06-02 12:10:34 DEBUG [main]: - init permission filter
+2022-06-02 12:12:05 DEBUG [main]: - Start context listener
+2022-06-02 12:12:05 DEBUG [main]: - get instance of connection pool
+2022-06-02 12:12:05 DEBUG [main]: - create connection
+2022-06-02 12:12:06 DEBUG [main]: - create connection
+2022-06-02 12:12:06 DEBUG [main]: - create connection
+2022-06-02 12:12:06 DEBUG [main]: - create connection
+2022-06-02 12:12:06 DEBUG [main]: - create connection
+2022-06-02 12:12:06 DEBUG [main]: - create connection
+2022-06-02 12:12:06 DEBUG [main]: - create connection
+2022-06-02 12:12:06 DEBUG [main]: - create connection
+2022-06-02 12:12:06 DEBUG [main]: - create connection
+2022-06-02 12:12:06 DEBUG [main]: - create connection
+2022-06-02 12:12:06 DEBUG [main]: - init EncodingFilter
+2022-06-02 12:12:06 DEBUG [main]: - init permission filter
+2022-06-02 12:12:09 DEBUG [http-nio-8080-exec-2]: - do EncodingFilter: UTF8
+2022-06-02 12:12:09 DEBUG [http-nio-8080-exec-2]: - user role: GUEST
+2022-06-02 12:12:09 DEBUG [http-nio-8080-exec-2]: - get instance of connection pool
+2022-06-02 12:12:09 DEBUG [http-nio-8080-exec-2]: - get connection
+2022-06-02 12:12:09 DEBUG [http-nio-8080-exec-2]: - get instance of connection pool
+2022-06-02 12:12:09 DEBUG [http-nio-8080-exec-2]: - release connection
+2022-06-02 12:12:09 DEBUG [http-nio-8080-exec-2]: - get instance of connection pool
+2022-06-02 12:12:09 DEBUG [http-nio-8080-exec-2]: - get connection
+2022-06-02 12:12:09 DEBUG [http-nio-8080-exec-2]: - get instance of connection pool
+2022-06-02 12:12:09 DEBUG [http-nio-8080-exec-2]: - release connection
+2022-06-02 12:12:09 DEBUG [http-nio-8080-exec-4]: - do EncodingFilter: UTF8
+2022-06-02 12:12:09 DEBUG [http-nio-8080-exec-4]: - user role: GUEST
+2022-06-02 12:12:58 DEBUG [http-nio-8080-exec-6]: - do EncodingFilter: UTF8
+2022-06-02 12:12:58 DEBUG [http-nio-8080-exec-6]: - user role: GUEST
+2022-06-02 12:12:58 DEBUG [http-nio-8080-exec-6]: - get instance of connection pool
+2022-06-02 12:12:58 DEBUG [http-nio-8080-exec-6]: - get connection
+2022-06-02 12:12:58 DEBUG [http-nio-8080-exec-6]: - get instance of connection pool
+2022-06-02 12:12:58 DEBUG [http-nio-8080-exec-6]: - release connection
+2022-06-02 12:12:58 DEBUG [http-nio-8080-exec-6]: - get instance of connection pool
+2022-06-02 12:12:58 DEBUG [http-nio-8080-exec-6]: - get connection
+2022-06-02 12:12:58 DEBUG [http-nio-8080-exec-6]: - get instance of connection pool
+2022-06-02 12:12:58 DEBUG [http-nio-8080-exec-6]: - release connection
+2022-06-02 12:12:58 DEBUG [http-nio-8080-exec-7]: - do EncodingFilter: UTF8
+2022-06-02 12:12:58 DEBUG [http-nio-8080-exec-7]: - user role: GUEST
+2022-06-02 12:13:19 DEBUG [http-nio-8080-exec-10]: - do EncodingFilter: UTF8
+2022-06-02 12:13:19 DEBUG [http-nio-8080-exec-10]: - user role: GUEST
+2022-06-02 12:13:19 DEBUG [http-nio-8080-exec-10]: - return login page
+2022-06-02 12:13:20 DEBUG [http-nio-8080-exec-1]: - do EncodingFilter: UTF8
+2022-06-02 12:13:20 DEBUG [http-nio-8080-exec-1]: - user role: GUEST
+2022-06-02 12:13:25 DEBUG [http-nio-8080-exec-2]: - do EncodingFilter: UTF8
+2022-06-02 12:13:25 DEBUG [http-nio-8080-exec-2]: - user role: GUEST
+2022-06-02 12:13:25 DEBUG [http-nio-8080-exec-2]: - get instance of connection pool
+2022-06-02 12:13:25 DEBUG [http-nio-8080-exec-2]: - get connection
+2022-06-02 12:13:25 DEBUG [http-nio-8080-exec-2]: - get instance of connection pool
+2022-06-02 12:13:25 DEBUG [http-nio-8080-exec-2]: - release connection
+2022-06-02 12:13:25 DEBUG [http-nio-8080-exec-2]: - user login in system
+2022-06-02 12:13:25 DEBUG [http-nio-8080-exec-4]: - do EncodingFilter: UTF8
+2022-06-02 12:13:25 DEBUG [http-nio-8080-exec-4]: - user role: USER
+2022-06-02 12:13:25 DEBUG [http-nio-8080-exec-4]: - get instance of connection pool
+2022-06-02 12:13:25 DEBUG [http-nio-8080-exec-4]: - get connection
+2022-06-02 12:13:25 DEBUG [http-nio-8080-exec-4]: - get instance of connection pool
+2022-06-02 12:13:25 DEBUG [http-nio-8080-exec-4]: - release connection
+2022-06-02 12:13:25 DEBUG [http-nio-8080-exec-4]: - get instance of connection pool
+2022-06-02 12:13:25 DEBUG [http-nio-8080-exec-4]: - get connection
+2022-06-02 12:13:25 DEBUG [http-nio-8080-exec-4]: - get instance of connection pool
+2022-06-02 12:13:25 DEBUG [http-nio-8080-exec-4]: - release connection
+2022-06-02 12:13:25 DEBUG [http-nio-8080-exec-4]: - get instance of connection pool
+2022-06-02 12:13:25 DEBUG [http-nio-8080-exec-4]: - get connection
+2022-06-02 12:13:25 DEBUG [http-nio-8080-exec-4]: - get instance of connection pool
+2022-06-02 12:13:25 DEBUG [http-nio-8080-exec-4]: - release connection
+2022-06-02 12:13:25 DEBUG [http-nio-8080-exec-3]: - do EncodingFilter: UTF8
+2022-06-02 12:13:25 DEBUG [http-nio-8080-exec-3]: - user role: USER
+2022-06-02 12:13:25 DEBUG [http-nio-8080-exec-3]: - get instance of connection pool
+2022-06-02 12:13:25 DEBUG [http-nio-8080-exec-3]: - get connection
+2022-06-02 12:13:25 DEBUG [http-nio-8080-exec-3]: - get instance of connection pool
+2022-06-02 12:13:25 DEBUG [http-nio-8080-exec-3]: - release connection
+2022-06-02 12:14:07 DEBUG [main]: - Start context listener
+2022-06-02 12:14:07 DEBUG [main]: - get instance of connection pool
+2022-06-02 12:14:07 DEBUG [main]: - create connection
+2022-06-02 12:14:08 DEBUG [main]: - create connection
+2022-06-02 12:14:08 DEBUG [main]: - create connection
+2022-06-02 12:14:08 DEBUG [main]: - create connection
+2022-06-02 12:14:08 DEBUG [main]: - create connection
+2022-06-02 12:14:08 DEBUG [main]: - create connection
+2022-06-02 12:14:08 DEBUG [main]: - create connection
+2022-06-02 12:14:08 DEBUG [main]: - create connection
+2022-06-02 12:14:08 DEBUG [main]: - create connection
+2022-06-02 12:14:08 DEBUG [main]: - create connection
+2022-06-02 12:14:08 DEBUG [main]: - init EncodingFilter
+2022-06-02 12:14:08 DEBUG [main]: - init permission filter
+2022-06-02 12:14:10 DEBUG [http-nio-8080-exec-2]: - do EncodingFilter: UTF8
+2022-06-02 12:14:10 DEBUG [http-nio-8080-exec-2]: - user role: GUEST
+2022-06-02 12:14:10 DEBUG [http-nio-8080-exec-2]: - get instance of connection pool
+2022-06-02 12:14:10 DEBUG [http-nio-8080-exec-2]: - get connection
+2022-06-02 12:14:10 DEBUG [http-nio-8080-exec-2]: - get instance of connection pool
+2022-06-02 12:14:10 DEBUG [http-nio-8080-exec-2]: - release connection
+2022-06-02 12:14:10 DEBUG [http-nio-8080-exec-2]: - get instance of connection pool
+2022-06-02 12:14:10 DEBUG [http-nio-8080-exec-2]: - get connection
+2022-06-02 12:14:10 DEBUG [http-nio-8080-exec-2]: - get instance of connection pool
+2022-06-02 12:14:10 DEBUG [http-nio-8080-exec-2]: - release connection
+2022-06-02 12:14:11 DEBUG [http-nio-8080-exec-3]: - do EncodingFilter: UTF8
+2022-06-02 12:14:11 DEBUG [http-nio-8080-exec-3]: - user role: GUEST
+2022-06-02 12:14:53 DEBUG [main]: - Start context listener
+2022-06-02 12:14:53 DEBUG [main]: - get instance of connection pool
+2022-06-02 12:14:53 DEBUG [main]: - create connection
+2022-06-02 12:14:54 DEBUG [main]: - create connection
+2022-06-02 12:14:54 DEBUG [main]: - create connection
+2022-06-02 12:14:54 DEBUG [main]: - create connection
+2022-06-02 12:14:54 DEBUG [main]: - create connection
+2022-06-02 12:14:54 DEBUG [main]: - create connection
+2022-06-02 12:14:54 DEBUG [main]: - create connection
+2022-06-02 12:14:54 DEBUG [main]: - create connection
+2022-06-02 12:14:54 DEBUG [main]: - create connection
+2022-06-02 12:14:54 DEBUG [main]: - create connection
+2022-06-02 12:14:54 DEBUG [main]: - init EncodingFilter
+2022-06-02 12:14:54 DEBUG [main]: - init permission filter

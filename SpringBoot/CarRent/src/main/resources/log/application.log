@@ -1,0 +1,26 @@
+2022-06-22 15:26:02 DEBUG [main]: - 
+2022-06-22 15:38:36 DEBUG [main]: - 
+2022-06-22 15:50:51 DEBUG [http-nio-8080-exec-1]: - 
+2022-06-22 15:50:52 DEBUG [http-nio-8080-exec-5]: - 
+2022-06-22 15:57:30 DEBUG [main]: - 
+2022-06-22 15:59:08 DEBUG [main]: - 
+2022-06-22 15:59:31 DEBUG [main]: - 
+2022-06-22 15:59:56 DEBUG [main]: - 
+2022-06-22 16:21:35 DEBUG [http-nio-8080-exec-3]: - 
+2022-06-22 16:27:34 DEBUG [main]: - 
+2022-06-22 16:39:39 DEBUG [main]: - 
+2022-06-22 17:00:21 DEBUG [http-nio-8080-exec-1]: - 
+2022-06-22 17:43:41 DEBUG [main]: - 
+2022-06-23 14:22:33 DEBUG [http-nio-8080-exec-7]: - 
+2022-06-23 14:31:17 DEBUG [main]: - 
+2022-06-25 13:19:48 DEBUG [main]: - 
+2022-06-25 13:42:39 DEBUG [main]: - 
+2022-06-25 13:43:15 DEBUG [main]: - 
+2022-06-25 13:43:31 DEBUG [main]: - 
+2022-06-25 14:26:48 DEBUG [main]: - 
+2022-06-25 16:22:20 DEBUG [http-nio-8080-exec-1]: - blabla
+2022-06-25 16:22:20 DEBUG [http-nio-8080-exec-4]: - blabla
+2022-06-25 16:32:54 DEBUG [main]: - blabla
+2022-06-25 16:34:02 DEBUG [main]: - blabla
+2022-06-27 16:18:26 DEBUG [http-nio-8080-exec-5]: - generate filter
+2022-06-27 16:18:26 DEBUG [http-nio-8080-exec-5]: - return catalog.html page
